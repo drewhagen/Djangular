@@ -28,6 +28,14 @@ Opted for backend that can run Legacy* Python scripts:
                 "pip install virtualenv"
                 ?? Windows is not seeing my System Environment Variable paths?
                 ... Windows is too difficult...
+                OK... here's what I found... :
+                http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/
+                "pip install virtualenvwrapper-win"
+                "mkvirtualenv virtual_environment"
+                ^This automatically places into our home directory, but we rather 
+                    move it over into our IDEA/VSCODE project folder.
+                    It will automatically boot into env, so deactivate. Then...
+                "workon virtual_environment"
         Initializes Virtual Environment via
 
             "virtualenv --no-site-packges virtual_environment"
