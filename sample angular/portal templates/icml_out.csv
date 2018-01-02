@@ -1,0 +1,82 @@
+./advising/gradPlanner/coursePlan.icml,"['84', '85', '108']",.icml
+./advising/gradPlanner/progress/progress.icml,"['222', '305']",.icml
+./advising/gradPlanner/required/required.icml,['173'],.icml
+./behavior/addEventParticipant.icml,"['640', '641', '642', '645', '649', '651']",.icml
+./behavior/preference.icml,"['8', '17', '155', '158', '160']",.icml
+./census/relatedPair/relatedPair.icml,"['170', '253', '254', '304', '408', '409', '507', '508']",.icml
+./census/studentContact/studentContact.icml,"['216', '217']",.icml
+./census/wizard/editRelationships.icml,"['137', '204']",.icml
+./curriculum/curriculumStandard_school/standard_school.icml,['11'],.icml
+./curriculum/preferences/templates/curriculumTemplates.icml,"['169', '173', '177']",.icml
+./custom/customAttribute/customAttributeEditor.icml,['57'],.icml
+./custom/customAttribute/hrUserFieldsEditor.icml,['44'],.icml
+./dataUtility/combinePerson/combinePerson.icml,['624'],.icml
+./dataUtility/translationEditor/TranslationLocaleMessage.icml,['285'],.icml
+./fees/feesEditor.icml,['46'],.icml
+./finance/generalLedger/subsystem/posRevenueFinanceAccounts.icml,['121'],.icml
+./finance/payments/districtReport.icml,"['19', '28', '81', '186']",.icml
+./finance/payments/districtReport_bg.icml,"['22', '31', '107', '266']",.icml
+./finance/payments/exceptionWizard.icml,"['355', '364']",.icml
+./finance/payments/paymentTransactionReport.icml,['74'],.icml
+./grading/eTranscripts/eTranscriptProcessSub.icml,"['172', '286', '361', '436', '519', '596', '675']",.icml
+./grading/student/student.icml,['103'],.icml
+./health/event/event.icml,['85'],.icml
+./hr/personnel/addWizard/addWizard.icml,['67'],.icml
+./instructionalManagement/onlineAssessment/delivery/deliveryPreviewItem.icml,['19'],.icml
+./instructionalManagement/onlineAssessment/reports/itemAnalysis/itemAnalysisPreview.icml,['17'],.icml
+./portal/activityDetail.icml,"['11', '12', '13', '14', '24', '25', '26', '46', '54', '58', '103', '150', '202', '216', '255', '259', '315', '409', '427', '433', '485', '543', '605', '640', '661']",.icml
+./portal/etranscript/eTranscriptProcessMain.icml,"['27', '28', '38', '49', '60', '81', '110', '175']",.icml
+./portal/etranscript/eTranscriptProcessNewRequest.icml,"['32', '43', '91', '133', '139']",.icml
+./portal/fram/framWizardAddIncomeDialog.icml,"['307', '320']",.icml
+./portal/onlineAssessment/launchOnlineAssessment.icml,"['18', '19', '20', '21', '22', '23']",.icml
+./portal/onlineAssessment/onlineAssessmentResponse.icml,"['10', '21', '22', '24', '25']",.icml
+./portal/portalCensusSelfService/newContactExistingPerson.icml,"['12', '77', '155']",.icml
+./portal/portalCensusSelfService/portalRequestDeny.icml,['5'],.icml
+./portal/portalCensusSelfService/portalRequestDenyDisplay.icml,['5'],.icml
+./portal/portalCensusSelfService/processor.icml,"['14', '24', '31', '56', '59', '109', '259']",.icml
+./portal/portalCensusSelfService/removeNonHHContactDialog.icml,"['8', '78']",.icml
+./portal/portalCensusSelfService/updateDemographicsDialog.icml,"['15', '33', '34', '183', '247']",.icml
+./portal/portalCensusSelfService/updateFamilyContactDialog.icml,"['8', '9', '24', '61']",.icml
+./portal/portalCensusSelfService/updateFamilyRelationshipDialog.icml,"['9', '41', '52', '78']",.icml
+./portal/portalCensusSelfService/updateHouseholdAddressDialog.icml,"['10', '146', '394']",.icml
+./portal/portalCensusSelfService/updateHouseholdPhoneDialog.icml,"['10', '54']",.icml
+./portal/portalCensusSelfService/updateNonHHContactDialog.icml,"['10', '58', '72', '110', '150', '174', '196', '201']",.icml
+./portal/reports/portalRequestsReport/portalRequestsReport.icml,"['6', '13', '85', '86', '102']",.icml
+./pos/fram/letterEditor/letterEditor.icml,"['322', '325', '328', '331', '410', '411', '412', '413', '547', '548', '549', '550', '605', '608', '611', '614']",.icml
+./pos/fram/onlineLetterEditor/onlineEditor.icml,"['190', '311', '316', '394', '413']",.icml
+./resource/eTranscript/eTranscriptOptions.icml,"['72', '73']",.icml
+./resource/portal/portalOptions.icml,"['6', '9', '10', '13', '36', '80', '81', '82', '83']",.icml
+./resource/portal/portalSelfServiceOptions.icml,"['5', '9', '10', '13', '17', '19', '20', '30', '31', '32', '33', '40', '41', '42', '43', '68', '69', '70']",.icml
+./resource/portal/pushNotificationPreferences.icml,"['10', '59', '69']",.icml
+./scheduling/coursePlanTemplate/coursePlanTemplate.icml,['61'],.icml
+./scheduling/schedulingRule/coursePrerequisite.icml,"['81', '404']",.icml
+./stateReporting/mi/membershipReportAlphaListOptions.icml,"['54', '71']",.icml
+./student/program/compoundRequirements/compoundRequirements.icml,"['99', '186']",.icml
+./student/program/courseRequirements/courseRequirements.icml,"['79', '201']",.icml
+./student/program/testRequirements/testRequirements.icml,"['78', '95', '197']",.icml
+./student/schedule/schedule.icml,['163'],.icml
+./survey/surveyDesigner/surveyDesigner.icml,['290'],.icml
+./system/auditTrail/reportOptions.icml,['129'],.icml
+./system/campusAttribute/attributeDictionaryEditor.icml,['67'],.icml
+./system/campusAttribute/devCampusAttributeEditor.icml,['487'],.icml
+./system/campusAttribute/spaCampusAttributeEditor.icml,['466'],.icml
+./system/preference/messenger/messengerSettings.icml,"['59', '61', '64', '67', '68', '69']",.icml
+./system/schoolChoice/wizard/schoolChoicePortalOpt.icml,"['20', '111', '117', '123', '171', '172', '187', '216', '217', '219', '220', '309', '311', '318', '320', '354']",.icml
+./system/schoolChoice/wizard/schoolChoiceWizard.icml,"['290', '293']",.icml
+./teaching/student/student.icml,"['16', '18', '19', '28', '29', '62', '63', '66', '70', '100', '532', '624']",.icml
+./teaching/student/studentPortalView.icml,"['16', '18', '19', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55', '56', '90', '91', '94', '98', '128', '373', '374', '628', '718']",.icml
+./user/accountMaintenance/accountMaintenance.icml,['7'],.icml
+./user/accountMaintenance/updateEmail.icml,"['7', '43']",.icml
+./user/accountMaintenance/updatePassword.icml,"['7', '40']",.icml
+./user/accountManagement/accountManagement.icml,['156'],.icml
+./user/accountManagement/eSignature.icml,"['86', '87', '88']",.icml
+./user/ldap2/ldapConfiguration.icml,"['147', '154', '155']",.icml
+./user/reports/accountAutomationLog/accountAutomationLog.icml,['66'],.icml
+./user/reports/portalUsage/portalUsage.icml,"['6', '14', '36', '38', '49', '63']",.icml
+./user/security/accountSecurityPreferences.icml,['156'],.icml
+./user/sso/saml/samlAccountWizard.icml,"['68', '70', '72', '78', '79', '80', '82', '161', '163', '215', '230', '231', '234', '235', '239', '415']",.icml
+./user/sso/saml/samlConfig.icml,"['132', '135', '138', '366', '479', '480']",.icml
+./user/userAccount/newAccount.icml,"['58', '60', '69', '71', '91', '92', '103', '108', '112', '221']",.icml
+./user/userAccount/userAccount.icml,"['70', '92', '95', '269', '270', '328']",.icml
+./user/userAccountTypeWizard/userAccountTypeWizard.icml,"['153', '154']",.icml
+./user/userNotice/userNotice.icml,"['202', '206', '590', '598']",.icml

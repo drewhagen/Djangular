@@ -1,0 +1,41 @@
+./apps/discussions/discussionsPortal.html,['26'],.html
+./apps/gradebook/index.html,['439'],.html
+./apps/guestAccess/gradebookHTML.html,['410'],.html
+./apps/lib/tools/shared/discussions/v0.10.X/partials/consumingSystem/CI.html,"['34', '78', '108']",.html
+./apps/lib/tools/shared/discussions/v0.10.X/partials/discussionsHeaderRow.html,['4'],.html
+./apps/lib/tools/shared/discussions/v0.10.X/partials/posts.html,"['23', '24', '40', '41', '45']",.html
+./apps/lib/tools/ttrng/directives/curriculum/curriculumTable/curriculumTable.html,"['13', '30', '47', '54', '64', '116', '117', '150', '152']",.html
+./apps/lib/tools/ttrng/directives/curriculum/sectionPlacement/sectionPlacementPartial.html,"['13', '64', '65']",.html
+./apps/lib/tools/ttrng/modals/assignment/onlineAssessmentPreview/onlineAssessmentPreview.html,['2'],.html
+./apps/lib/tools/ttrng/modals/curriculum/curriculumTemplate/curriculumTemplateDetail.html,"['33', '36']",.html
+./apps/lib/tools/ttrng/partials/assignment/onlineAssessment.html,['10'],.html
+./apps/lib/tools/ttrng/partials/gradebookHTML/teacherPreference.html,['8'],.html
+./apps/lib/tools/ttrng/partials/reportOptions/portalUsageRosterReportOptions.html,['1'],.html
+./node_modules/campus-5.0-apps/discussions/discussionsPortal.html,['26'],.html
+./node_modules/campus-5.0-apps/gradebook/index.html,['439'],.html
+./node_modules/campus-5.0-apps/guestAccess/gradebookHTML.html,['410'],.html
+./node_modules/campus-5.0-apps/lib/tools/shared/discussions/v0.10.X/partials/consumingSystem/CI.html,"['34', '78', '108']",.html
+./node_modules/campus-5.0-apps/lib/tools/shared/discussions/v0.10.X/partials/discussionsHeaderRow.html,['4'],.html
+./node_modules/campus-5.0-apps/lib/tools/shared/discussions/v0.10.X/partials/posts.html,"['23', '24', '40', '41', '45']",.html
+./node_modules/campus-5.0-apps/lib/tools/ttrng/directives/curriculum/curriculumTable/curriculumTable.html,"['13', '30', '47', '54', '64', '116', '117', '150', '152']",.html
+./node_modules/campus-5.0-apps/lib/tools/ttrng/directives/curriculum/sectionPlacement/sectionPlacementPartial.html,"['13', '64', '65']",.html
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/assignment/onlineAssessmentPreview/onlineAssessmentPreview.html,['2'],.html
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/curriculum/curriculumTemplate/curriculumTemplateDetail.html,"['33', '36']",.html
+./node_modules/campus-5.0-apps/lib/tools/ttrng/partials/assignment/onlineAssessment.html,['10'],.html
+./node_modules/campus-5.0-apps/lib/tools/ttrng/partials/gradebookHTML/teacherPreference.html,['8'],.html
+./node_modules/campus-5.0-apps/lib/tools/ttrng/partials/reportOptions/portalUsageRosterReportOptions.html,['1'],.html
+./node_modules/campus-5.0-apps/teaching/gradebookHTML/ttr_gradebook.html,['443'],.html
+./portal/coursePlanner.html,"['153', '270']",.html
+./portal/fram/framWizardHouseholdMemberSelection.html,['7'],.html
+./portal/fram/framWizardMemberIncome.html,['7'],.html
+./portal/fram/framWizardStudentFosterSelection.html,['9'],.html
+./portal/fram/framWizardStudentIndicatorSelection.html,['9'],.html
+./portal/fram/framWizardStudentSelection.html,['9'],.html
+./portal/fram/framWizardSummary.html,['7'],.html
+./teaching/gradebookHTML/ttr_gradebook.html,['443'],.html
+./user/userNotice/promotion/campusInstructionPromotion.html,"['17', '19']",.html
+./WEB-INF/templates/failingAssignmentsNotification.html,['8'],.html
+./WEB-INF/templates/failingGradesNotification.html,['9'],.html
+./WEB-INF/templates/missingAssignmentScheduleNotification.html,['8'],.html
+./WEB-INF/templates/missingAssignmentsNotification.html,['10'],.html
+./WEB-INF/templates/schoolChoiceNotification.html,['9'],.html

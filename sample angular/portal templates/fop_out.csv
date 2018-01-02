@@ -1,0 +1,13 @@
+./fees/reports/feeBilling/feeBillingBatch.fop,['105'],.fop
+./portal/reports/portalRequestsReport/portalRequestsReport.fop,"['10', '11', '12', '13', '14', '17', '28']",.fop
+./portal/toDoList.fop,"['18', '134', '135', '148', '150']",.fop
+./pos/fram/reports/appInstructions.fop,['17'],.fop
+./pos/fram/reports/submitSummary.fop,['11'],.fop
+./studentPortfolio/reports/transcript/transcript.fop,['19'],.fop
+./studentPortfolio/reports/transcript/transcriptTerm.fop,['22'],.fop
+./teaching/reports/curriculum/learningObjectPrint.fop,['287'],.fop
+./teaching/reports/missing/missing.fop,['471'],.fop
+./teaching/reports/portalUsage/portalUsageRoster.fop,"['14', '16', '25', '59', '114']",.fop
+./teaching/reports/sectionSummary/sectionSummary.fop,['297'],.fop
+./user/reports/accountAutomationLog/accountAutomationLog.fop,['121'],.fop
+./user/reports/portalUsage/portalUsage.fop,"['8', '11', '22', '40', '42', '51', '58']",.fop

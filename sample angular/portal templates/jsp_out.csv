@@ -1,0 +1,27 @@
+./batchReport.jsp,['12'],.jsp
+./iemn.jsp,"['27', '235']",.jsp
+./Learning_Queries.jsp,"['27', '235']",.jsp
+./logoff.jsp,"['56', '57', '58', '59', '68']",.jsp
+./nav/toolbar/heartBeat.jsp,"['57', '89']",.jsp
+./password/reset/uniqueLinkToPasswordReset.jsp,"['30', '35', '36']",.jsp
+./portal/activate.jsp,"['1', '85']",.jsp
+./portal/checkKey.jsp,"['5', '114', '124', '169']",.jsp
+./portal/createAccount.jsp,"['52', '55', '81', '88', '96', '103', '105']",.jsp
+./portal/etranscript/displayETranscriptXML.jsp,"['1', '6']",.jsp
+./portal/faq.jsp,"['1', '35']",.jsp
+./portal/iemn.jsp,"['8', '97', '98', '100', '151', '171', '197', '223']",.jsp
+./portal/key.jsp,"['1', '17']",.jsp
+./portal/lang/datePickerLanguage.jsp,"['4', '9', '10', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36']",.jsp
+./portal/lang/langDef.jsp,"['3', '24', '35']",.jsp
+./portal/Learning_Queries.jsp,"['8', '97', '98', '100', '151', '171', '197', '223']",.jsp
+./portal/portalLogin.jsp,"['10', '22', '57', '88', '94', '111', '155', '157', '169', '171', '176', '180', '184', '192', '193', '198', '202', '209', '213', '217', '221', '233', '237', '272', '275', '276', '277', '278', '328', '356', '358', '359', '381', '467', '485', '487', '489', '491', '495', '522', '523', '527', '528']",.jsp
+./portal/students/iemn.jsp,"['9', '16', '72', '91', '97', '106', '111', '112', '113', '115', '140', '169', '171', '194', '197', '229', '262']",.jsp
+./portal/students/Learning_Queries.jsp,"['9', '16', '72', '91', '97', '106', '111', '112', '113', '115', '140', '169', '171', '194', '197', '229', '262']",.jsp
+./samlConfig/activate.jsp,['67'],.jsp
+./system/campusAttribute/script/scriptAttribute.jsp,"['73', '74', '156', '157', '168', '169']",.jsp
+./WEB-INF/password/reset/savePasswordAndRedirect.jsp,"['7', '8']",.jsp
+./WEB-INF/password/reset/setPassword.jsp,"['16', '27']",.jsp
+./WEB-INF/templates/login.jsp,"['27', '235']",.jsp
+./WEB-INF/templates/passwordReset.jsp,"['1', '17', '18', '19', '22', '23', '26', '27']",.jsp
+./WEB-INF/templates/portal.jsp,"['8', '97', '98', '100', '151', '171', '197', '223']",.jsp
+./WEB-INF/templates/studentPortal.jsp,"['9', '16', '72', '91', '97', '106', '111', '112', '113', '115', '140', '169', '171', '194', '197', '229', '262']",.jsp

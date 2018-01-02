@@ -1,0 +1,8 @@
+Binary         ./pos/lib/pos.jar          ,[''],.jarmatches
+Binary         ./pos/lib2/h2-1.4.190.jar          ,[''],.jarmatches
+Binary         ./pos/lib2/pos.jar          ,[''],.jarmatches
+Binary         ./WEB-INF/datawarehouse/lib/kettle-4.1.0/hsqldb-j5-2.0.0.jar          ,[''],.jarmatches
+Binary         ./WEB-INF/datawarehouse/lib/kettle-4.1.0/kettle-engine.jar          ,[''],.jarmatches
+Binary         ./WEB-INF/datawarehouse/lib/kettle-4.1.0/postgresql-8.3-603.jdbc3.jar          ,[''],.jarmatches
+Binary         ./WEB-INF/lib/h2-1.4.190.jar          ,[''],.jarmatches
+Binary         ./WEB-INF/lib/postgresql-9.0-801.jdbc3.jar          ,[''],.jarmatches

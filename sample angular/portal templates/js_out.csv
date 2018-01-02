@@ -1,0 +1,120 @@
+./apps/campusHelp/lib/ng-campus/campus-sis/campus-sis-0.8.0.js,"['5662', '5664', '6281']",.js
+./apps/campusHelp/lib/ng-campus/campus-sis/campus-sis-0.8.0.min.js,['7'],.js
+./apps/lib/assets/libraryVersions/v0.10.5/campus-sis/campus-sis-0.10.5.js,"['6020', '6022', '6639']",.js
+./apps/lib/assets/libraryVersions/v0.10.5/campus-sis/campus-sis-0.10.5.min.js,['7'],.js
+./apps/lib/tools/discussionsAdmin/main.js,['7'],.js
+./apps/lib/tools/discussionsAdmin/routes.js,['1'],.js
+./apps/lib/tools/discussionsPortal/app.js,['1'],.js
+./apps/lib/tools/discussionsPortal/discussion-portal-controller.js,['1'],.js
+./apps/lib/tools/discussionsPortal/main.js,['7'],.js
+./apps/lib/tools/discussionsPortal/routes.js,['1'],.js
+./apps/lib/tools/gradebookHTML/guestAccessMain.js,['17'],.js
+./apps/lib/tools/gradebookHTML/main.js,['24'],.js
+./apps/lib/tools/shared/discussions/v0.10.X/controllers/discussion-controllers.js,['1'],.js
+./apps/lib/tools/shared/discussions/v0.10.X/discussion-services.js,['1'],.js
+./apps/lib/tools/ttrng/controllers/reportOfferings-controllers.js,['1'],.js
+./apps/lib/tools/ttrng/directives/curriculum/curriculumTable/curriculumTable.js,['1'],.js
+./apps/lib/tools/ttrng/directives/curriculum/curriculumTable/curriculumTableHelper/curriculumTableHelperServices.js,['1'],.js
+./apps/lib/tools/ttrng/directives/curriculum/sectionPlacement/sectionPlacementDirective.js,['1'],.js
+./apps/lib/tools/ttrng/main.js,['24'],.js
+./apps/lib/tools/ttrng/modals/curriculum/curriculumEditor/learning-object-controller.js,['1'],.js
+./apps/lib/tools/ttrng/modals/curriculum/curriculumList/curriculumListService.js,['1'],.js
+./apps/lib/tools/ttrng/modals/curriculum/curriculumTemplate/curriculumTemplateDetail-controller.js,['1'],.js
+./apps/lib/tools/ttrng/modals/curriculum/curriculumTemplate/curriculumTemplateService.js,['1'],.js
+./apps/lib/tools/ttrng/modals/curriculum/updateVersionForOtherScheduledCurriculum/updateVersionForOtherScheduledCurriculumModalService.js,['1'],.js
+./apps/lib/tools/ttrng/modals/gradebookHTML/categoryDetail/categoryDetail-controller.js,['1'],.js
+./apps/lib/tools/ttrng/services/curriculumServices/learningObjectServices.js,['1'],.js
+./apps/lib/tools/ttrng/services/reportServices/portalUsageRosterReport.js,['1'],.js
+./apps/lib/tools/ttrng/services/services.js,['1'],.js
+./apps/schedule/main.9cb0f9bef059f5155cd0.bundle.js,['1'],.js
+./apps/student/app.5816ab93ef60b3bfbfca.js,"['1', '27', '28', '29', '30', '40']",.js
+./apps/teacher/lib/gradebook.js,"['12018', '12020', '12027', '12042']",.js
+./apps/teacher/lib/gradebook.min.js,['10'],.js
+./behavior/addEventParticipant.js,"['76', '114', '770', '778', '779', '788', '789', '911']",.js
+./custom/customTab/customTab.js,"['7', '14', '15', '16', '25', '26']",.js
+./fees/fees.js,"['6', '102', '106', '120', '121', '124', '188', '201', '228', '235', '291', '295', '298', '302', '308', '328', '338', '359', '367', '564']",.js
+./finance/payments/paymentTransactionReport.js,"['158', '174', '195', '222', '225']",.js
+./Gruntfile.js,['162'],.js
+./jasmine/spec/behavior/addEventParticipantSpec.js,"['77', '90', '112', '115', '128']",.js
+./jasmine/spec/portalNotificationsSpec.js,['1'],.js
+./node_modules/@campus/schedule/main.9cb0f9bef059f5155cd0.bundle.js,['1'],.js
+./node_modules/@campus/student/app.5816ab93ef60b3bfbfca.js,"['1', '27', '28', '29', '30', '40']",.js
+./node_modules/campus-5.0-apps/lib/assets/libraryVersions/v0.10.5/campus-sis/campus-sis-0.10.5.js,"['6020', '6022', '6639']",.js
+./node_modules/campus-5.0-apps/lib/assets/libraryVersions/v0.10.5/campus-sis/campus-sis-0.10.5.min.js,['7'],.js
+./node_modules/campus-5.0-apps/lib/tools/discussionsAdmin/main.js,['7'],.js
+./node_modules/campus-5.0-apps/lib/tools/discussionsAdmin/routes.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/discussionsPortal/app.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/discussionsPortal/discussion-portal-controller.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/discussionsPortal/main.js,['7'],.js
+./node_modules/campus-5.0-apps/lib/tools/discussionsPortal/routes.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/gradebookHTML/guestAccessMain.js,['17'],.js
+./node_modules/campus-5.0-apps/lib/tools/gradebookHTML/main.js,['24'],.js
+./node_modules/campus-5.0-apps/lib/tools/shared/discussions/v0.10.X/controllers/discussion-controllers.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/shared/discussions/v0.10.X/discussion-services.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/controllers/reportOfferings-controllers.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/directives/curriculum/curriculumTable/curriculumTable.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/directives/curriculum/curriculumTable/curriculumTableHelper/curriculumTableHelperServices.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/directives/curriculum/sectionPlacement/sectionPlacementDirective.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/main.js,['24'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/curriculum/curriculumEditor/learning-object-controller.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/curriculum/curriculumList/curriculumListService.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/curriculum/curriculumTemplate/curriculumTemplateDetail-controller.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/curriculum/curriculumTemplate/curriculumTemplateService.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/curriculum/updateVersionForOtherScheduledCurriculum/updateVersionForOtherScheduledCurriculumModalService.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/modals/gradebookHTML/categoryDetail/categoryDetail-controller.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/services/curriculumServices/learningObjectServices.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/services/reportServices/portalUsageRosterReport.js,['1'],.js
+./node_modules/campus-5.0-apps/lib/tools/ttrng/services/services.js,['1'],.js
+./node_modules/campus-5.0-apps/teacher/lib/gradebook.js,"['12018', '12020', '12027', '12042']",.js
+./node_modules/campus-5.0-apps/teacher/lib/gradebook.min.js,['10'],.js
+./node_modules/campus-5.0-apps/teaching/gradebookHTML/ttr_scripts/gradebookUI.js,"['4559', '4561', '4568', '4583']",.js
+./node_modules/campus-help/lib/ng-campus/campus-sis/campus-sis-0.8.0.js,"['5662', '5664', '6281']",.js
+./node_modules/campus-help/lib/ng-campus/campus-sis/campus-sis-0.8.0.min.js,['7'],.js
+./node_modules/escodegen/escodegen.js,['1279'],.js
+./node_modules/escodegen/node_modules/esprima/esprima.js,"['125', '2358', '2359', '5319', '5333', '5348']",.js
+./node_modules/eslint/lib/rules/newline-after-var.js,['63'],.js
+./node_modules/eslint/lib/rules/quotes.js,['150'],.js
+./node_modules/eslint/lib/rules/semi.js,['146'],.js
+./node_modules/eslint/lib/util/source-code.js,['81'],.js
+./node_modules/eslint/node_modules/espree/espree.js,"['4862', '4878', '4889']",.js
+./node_modules/eslint/node_modules/espree/lib/ast-node-factory.js,"['941', '943']",.js
+./node_modules/eslint/node_modules/espree/lib/ast-node-types.js,['113'],.js
+./node_modules/eslint/node_modules/js-yaml/node_modules/esprima/esprima.js,"['125', '2358', '2359', '5319', '5333', '5348']",.js
+./node_modules/estraverse/estraverse.js,"['167', '241']",.js
+./node_modules/grunt-contrib-uglify/tasks/lib/uglify.js,['61'],.js
+./node_modules/istanbul/lib/instrumenter.js,['92'],.js
+./node_modules/istanbul/node_modules/esprima/esprima.js,"['125', '2358', '2359', '5319', '5333', '5348']",.js
+./node_modules/istanbul/node_modules/js-yaml/node_modules/esprima/dist/esprima.js,"['360', '1376', '1377', '1378', '1381', '1383', '4899']",.js
+./node_modules/tough-cookie/lib/pubsuffix.js,['96'],.js
+./node_modules/uglify-js/tools/node.js,['113'],.js
+./portal/attendance/attendance.js,"['115', '117', '205', '234', '237', '305', '325']",.js
+./portal/coursePlanner.js,"['40', '468', '469', '478', '543', '560', '737', '813', '915', '920', '922']",.js
+./portal/fram/fram.js,"['516', '519']",.js
+./portal/fram/framWizard.js,['136'],.js
+./portal/fram/framWizardAppInstruction.js,['30'],.js
+./portal/fram/framWizardAuthorization.js,['21'],.js
+./portal/fram/framWizardBenefitSelectionDetail.js,['20'],.js
+./portal/fram/framWizardESignature.js,"['48', '49', '50', '51', '52']",.js
+./portal/fram/framWizardHouseholdMemberSelection.js,"['24', '49', '184']",.js
+./portal/fram/framWizardMemberIncome.js,"['40', '97', '255']",.js
+./portal/fram/framWizardSigner.js,['21'],.js
+./portal/fram/framWizardStudentFosterSelection.js,"['25', '51']",.js
+./portal/fram/framWizardStudentIndicatorSelection.js,"['26', '51']",.js
+./portal/fram/framWizardStudentSelection.js,"['26', '51']",.js
+./portal/fram/framWizardSubmitted.js,['22'],.js
+./portal/fram/framWizardSummary.js,"['20', '103']",.js
+./portal/grades.js,['51'],.js
+./portal/payments/payments.js,"['51', '65', '481', '520', '670', '763', '779', '1193', '1194', '1277', '1314', '1340', '1588', '1682', '2355']",.js
+./portal/portal.js,"['3', '21', '25', '121', '130', '135', '149', '166', '169', '171', '173', '176', '179', '182', '185', '204', '207', '210', '213', '216', '219', '221', '222', '224', '230', '239', '244', '249', '282', '295', '306', '307', '309', '310', '315', '319', '326', '331', '336', '344', '348', '351', '357', '369', '373', '377', '381', '386', '390', '391', '394', '431', '434', '451', '580', '604', '670', '671', '760', '770', '781', '784', '789', '792', '868', '870', '885', '938', '1070']",.js
+./portal/portalCensusSelfService/portalUserRequest.js,"['25', '26', '135', '138', '141', '172', '222', '227', '232', '237', '241', '245', '250', '254']",.js
+./portal/portalNoShim.js,['2'],.js
+./portal/upload/assignmentUpload.js,"['73', '79', '95', '209', '243']",.js
+./portal/upload/driveUpload.js,['286'],.js
+./scheduling/coursePlanAdmin/wizard.js,['65'],.js
+./scripts/jquery/countdown/jquery.countdown-ms.js,['3'],.js
+./scripts/portal.js,"['53', '118']",.js
+./system/campusAttribute/scripts/generateStandard.js,['18'],.js
+./system/report/report.js,"['27', '28', '29', '31', '32', '33', '35', '36']",.js
+./teaching/gradebookHTML/ttr_scripts/gradebookUI.js,"['4559', '4561', '4568', '4583']",.js
+./user/ldap2/ldapConfiguration.js,"['168', '172', '175', '176', '178', '179', '180', '181', '184', '185', '189', '191', '193', '194']",.js
+./user/sso/saml/samlConfig.js,"['119', '153', '214', '262', '369', '481', '499', '739', '740', '741', '743', '746']",.js

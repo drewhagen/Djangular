@@ -1,0 +1,358 @@
+./WEB-INF/src/com/infinitecampus/adhoc/AdHocReport.java,"['465', '868', '869', '875']",.java
+./WEB-INF/src/com/infinitecampus/adhoc/ObjectModel.java,"['184', '186', '1588', '1796']",.java
+./WEB-INF/src/com/infinitecampus/adhoc/UserAccountRowImporter.java,"['219', '232']",.java
+./WEB-INF/src/com/infinitecampus/appFramework/Navigation.java,"['16', '61', '73', '74']",.java
+./WEB-INF/src/com/infinitecampus/assessment/Test.java,"['77', '734', '813', '929']",.java
+./WEB-INF/src/com/infinitecampus/assessment/TestScore.java,"['573', '775']",.java
+./WEB-INF/src/com/infinitecampus/attendance/PeriodAttendance.java,['80'],.java
+./WEB-INF/src/com/infinitecampus/attendance/PeriodDetailBatch.java,['48'],.java
+./WEB-INF/src/com/infinitecampus/audit/AuditFilter.java,"['62', '123', '125', '127']",.java
+./WEB-INF/src/com/infinitecampus/behavior/BehaviorIncident.java,"['544', '1062', '1064', '1119', '1124', '1125', '1613', '1614', '1615', '1616', '1618', '1621']",.java
+./WEB-INF/src/com/infinitecampus/behavior/BehaviorPreference.java,['44'],.java
+./WEB-INF/src/com/infinitecampus/behavior/BehaviorRole.java,"['60', '266', '269', '270']",.java
+./WEB-INF/src/com/infinitecampus/calendar/Calendar.java,"['190', '435', '1191']",.java
+./WEB-INF/src/com/infinitecampus/calendar/Period.java,['119'],.java
+./WEB-INF/src/com/infinitecampus/calendar/SchoolYear.java,"['67', '185']",.java
+./WEB-INF/src/com/infinitecampus/campusLearning/LearningDetailReport.java,['56'],.java
+./WEB-INF/src/com/infinitecampus/census/Address.java,['113'],.java
+./WEB-INF/src/com/infinitecampus/census/CensusContactSummary.java,"['843', '898']",.java
+./WEB-INF/src/com/infinitecampus/census/CensusWizard.java,"['554', '585', '605']",.java
+./WEB-INF/src/com/infinitecampus/census/Contact.java,"['163', '164']",.java
+./WEB-INF/src/com/infinitecampus/census/Household.java,['73'],.java
+./WEB-INF/src/com/infinitecampus/census/HouseholdLocation.java,['58'],.java
+./WEB-INF/src/com/infinitecampus/census/RelatedPair.java,"['41', '49', '50', '143', '171', '195', '332', '333', '364', '413', '444']",.java
+./WEB-INF/src/com/infinitecampus/census/RelationshipType.java,['42'],.java
+./WEB-INF/src/com/infinitecampus/census/SearchAddress.java,['28'],.java
+./WEB-INF/src/com/infinitecampus/census/StudentContact.java,['41'],.java
+./WEB-INF/src/com/infinitecampus/core/Identity.java,"['195', '196', '197']",.java
+./WEB-INF/src/com/infinitecampus/core/PersonHeader.java,['57'],.java
+./WEB-INF/src/com/infinitecampus/core/RaceEthnicity.java,['35'],.java
+./WEB-INF/src/com/infinitecampus/core/Student.java,['794'],.java
+./WEB-INF/src/com/infinitecampus/curriculum/Course.java,"['155', '265', '266', '268', '1513', '2297', '2354']",.java
+./WEB-INF/src/com/infinitecampus/curriculum/CourseCatalog.java,['95'],.java
+./WEB-INF/src/com/infinitecampus/curriculum/CourseMaster.java,['115'],.java
+./WEB-INF/src/com/infinitecampus/curriculum/ScoreGroup.java,['96'],.java
+./WEB-INF/src/com/infinitecampus/custom/CustomTab.java,"['39', '86', '123', '147']",.java
+./WEB-INF/src/com/infinitecampus/dataConversion/dataHealthCheck/CampusReport.java,"['60', '63']",.java
+./WEB-INF/src/com/infinitecampus/dataService/broker/CampusDataServiceBroker.java,"['445', '446']",.java
+./WEB-INF/src/com/infinitecampus/dataUtility/Locale.java,"['126', '152']",.java
+./WEB-INF/src/com/infinitecampus/dataUtility/TranslationEditor.java,['17'],.java
+./WEB-INF/src/com/infinitecampus/dataUtility/TranslationExport.java,['21'],.java
+./WEB-INF/src/com/infinitecampus/dataUtility/TranslationExportHelper.java,['12'],.java
+./WEB-INF/src/com/infinitecampus/dataUtility/TranslationLocaleMessage.java,['18'],.java
+./WEB-INF/src/com/infinitecampus/dataUtility/TranslationsImport.java,"['24', '25']",.java
+./WEB-INF/src/com/infinitecampus/discussion/consumingSystem/ForumSystemCI.java,['124'],.java
+./WEB-INF/src/com/infinitecampus/discussion/Forum.java,"['31', '192', '439']",.java
+./WEB-INF/src/com/infinitecampus/discussion/ForumPost.java,['423'],.java
+./WEB-INF/src/com/infinitecampus/discussion/ForumThread.java,['126'],.java
+./WEB-INF/src/com/infinitecampus/fees/FeeAssignment.java,"['156', '168', '186', '187', '238', '239', '241', '291', '314', '315', '316', '474', '484', '545', '548', '565', '567', '584', '585', '586', '591', '612', '677', '881', '1953', '1954', '1956']",.java
+./WEB-INF/src/com/infinitecampus/fees/FeeBillingReport.java,"['44', '46', '97', '118', '163', '249', '289', '290', '292', '319', '320', '321', '481', '491', '527', '530', '547', '549', '558', '570', '594']",.java
+./WEB-INF/src/com/infinitecampus/fees/FeeTransaction.java,"['149', '171', '195', '196', '197', '200', '216', '220']",.java
+./WEB-INF/src/com/infinitecampus/finance/payments/onlinepayments/OnlinePaymentTransactionHandler.java,"['29', '30', '31', '41', '59', '136']",.java
+./WEB-INF/src/com/infinitecampus/finance/payments/onlinepayments/pcdo/OLPSettings.java,['35'],.java
+./WEB-INF/src/com/infinitecampus/finance/payments/onlinepayments/PortalOnlinePayment.java,"['18', '19', '20', '54', '56', '73', '77', '83', '86', '87', '88', '91', '97', '98', '100', '101', '104', '105', '107', '108', '109', '113', '120', '123', '125', '155', '210', '272', '275', '385', '439', '480', '499', '502']",.java
+./WEB-INF/src/com/infinitecampus/finance/payments/onlinepayments/PortalOnlineTransaction.java,"['17', '34', '36', '39', '42', '43', '44', '50', '54', '62', '101', '120', '242', '267', '308', '342', '354', '402', '405', '424', '465', '468']",.java
+./WEB-INF/src/com/infinitecampus/finance/payments/onlinepayments/recurringPayments/RecurringFeePayment.java,"['8', '63', '64', '65', '66', '173', '174', '231']",.java
+./WEB-INF/src/com/infinitecampus/finance/payments/onlinepayments/recurringPayments/RecurringPaymentHandler.java,['108'],.java
+./WEB-INF/src/com/infinitecampus/finance/payments/onlinepayments/recurringPayments/RecurringPOSPayment.java,"['7', '63', '64', '65', '66', '217', '218', '246']",.java
+./WEB-INF/src/com/infinitecampus/finance/payments/paymentvendor/Transaction.java,['12'],.java
+./WEB-INF/src/com/infinitecampus/finance/payments/pcdo/OLPEntity.java,['24'],.java
+./WEB-INF/src/com/infinitecampus/finance/payments/pcdo/PaymentClientAccount.java,['50'],.java
+./WEB-INF/src/com/infinitecampus/finance/payments/pcdo/PaymentReconciliationReport.java,['41'],.java
+./WEB-INF/src/com/infinitecampus/fram/FRAMLetterReport.java,"['19', '186', '187', '188', '202', '282']",.java
+./WEB-INF/src/com/infinitecampus/fram/FRAMLetterTemplate.java,"['185', '186', '187', '211', '262']",.java
+./WEB-INF/src/com/infinitecampus/fram/FRAMPermission.java,['31'],.java
+./WEB-INF/src/com/infinitecampus/fram/FreeReducedIncomeGuide.java,['23'],.java
+./WEB-INF/src/com/infinitecampus/fram/FreeReducedPreference.java,"['26', '203']",.java
+./WEB-INF/src/com/infinitecampus/fram/FreeReducedPreferenceNondirectSave.java,['19'],.java
+./WEB-INF/src/com/infinitecampus/fram/FreeReducedSchoolYearPreference.java,['22'],.java
+./WEB-INF/src/com/infinitecampus/fram/household/HouseholdManager.java,"['1739', '1741']",.java
+./WEB-INF/src/com/infinitecampus/fram/OnlineMealBenefitApplication.java,"['339', '341']",.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/campusLearning/CampusLearningMessagingService.java,['97'],.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/events/assignment/AssignmentScorePushNotificationEvent.java,"['125', '136', '150', '238', '265']",.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/events/attendance/AttendancePushNotificationEvent.java,['43'],.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/events/attendance/TeacherAttendancePushNotificationEvent.java,"['42', '43', '44']",.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/events/framework/G3PushNotificationEvent.java,['68'],.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/events/framework/G3PushNotificationFilter.java,"['107', '172']",.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/events/grading/GradingPushNotificationEvent.java,['111'],.java
+./WEB-INF/src/com/infinitecampus/g3/messaging/services/G3PushNotificationServiceConfig.java,['31'],.java
+./WEB-INF/src/com/infinitecampus/grading/Grades.java,"['37', '38', '60', '73', '75', '80', '83', '85', '86', '117', '120', '121', '136', '139', '142', '154', '180', '236', '389', '426', '464', '495', '504', '508', '550', '560']",.java
+./WEB-INF/src/com/infinitecampus/grading/GradingDetail.java,"['40', '46', '52', '56', '59', '77', '543']",.java
+./WEB-INF/src/com/infinitecampus/grading/ReportCard.java,"['102', '104', '105', '108', '362', '395', '414', '525', '543']",.java
+./WEB-INF/src/com/infinitecampus/hr/HRUtil.java,"['163', '168', '170', '171', '260']",.java
+./WEB-INF/src/com/infinitecampus/instructionalManagement/IMLearningObjectSchedulingSet.java,"['55', '77', '105', '214', '216', '217', '253', '255', '275', '288']",.java
+./WEB-INF/src/com/infinitecampus/instructionalManagement/IMLearningObjectSection.java,['33'],.java
+./WEB-INF/src/com/infinitecampus/instructionalManagement/onlineAssessment/delivery/ItemFeedback.java,['16'],.java
+./WEB-INF/src/com/infinitecampus/learnerPlanning/EvalType.java,"['76', '78', '79']",.java
+./WEB-INF/src/com/infinitecampus/learnerPlanning/Evaluation.java,"['738', '739', '766', '768']",.java
+./WEB-INF/src/com/infinitecampus/learnerPlanning/Plan.java,"['806', '812', '817', '861', '871', '873', '875', '948']",.java
+./WEB-INF/src/com/infinitecampus/learnerPlanning/PlanAttribute.java,"['70', '89', '115']",.java
+./WEB-INF/src/com/infinitecampus/learnerPlanning/PlanProgressReport.java,"['151', '152', '170', '171']",.java
+./WEB-INF/src/com/infinitecampus/learnerPlanning/PlanType.java,"['79', '82', '83']",.java
+./WEB-INF/src/com/infinitecampus/messenger/CustomObjectModel.java,"['178', '207', '253', '276', '301', '327']",.java
+./WEB-INF/src/com/infinitecampus/messenger/FailingAssignmentProcessor.java,"['157', '162', '168']",.java
+./WEB-INF/src/com/infinitecampus/messenger/FailingAssignmentRecipientFilter.java,['74'],.java
+./WEB-INF/src/com/infinitecampus/messenger/FailingGradesProcessor.java,"['120', '125', '126']",.java
+./WEB-INF/src/com/infinitecampus/messenger/MessengerEngine.java,"['431', '432', '458', '459', '2564', '2769', '3052', '3155', '3166', '3177', '3178', '3180', '3184', '3185', '3187', '3190', '3192', '3194', '3196', '3229', '3231', '3236']",.java
+./WEB-INF/src/com/infinitecampus/messenger/MessengerPreference.java,"['40', '209']",.java
+./WEB-INF/src/com/infinitecampus/messenger/MessengerProcessor.java,"['306', '307', '308', '309', '314', '315', '320', '321', '322', '323']",.java
+./WEB-INF/src/com/infinitecampus/messenger/MissingAssignmentProcessor.java,"['253', '258', '259']",.java
+./WEB-INF/src/com/infinitecampus/messenger/SchoolChoiceProcessor.java,"['146', '151']",.java
+./WEB-INF/src/com/infinitecampus/messenger/SurveyMessengerProcessor.java,"['109', '127', '137']",.java
+./WEB-INF/src/com/infinitecampus/messenger/TeacherMessengerProcessor.java,"['161', '166', '167']",.java
+./WEB-INF/src/com/infinitecampus/notice/Notice.java,['31'],.java
+./WEB-INF/src/com/infinitecampus/notifications/api/NotificationPublisher.java,"['36', '38']",.java
+./WEB-INF/src/com/infinitecampus/notifications/events/AssignmentScoreEvent.java,"['64', '71', '88', '110', '125', '208']",.java
+./WEB-INF/src/com/infinitecampus/notifications/events/Attendance/EditPeriodAttendanceEvent.java,"['58', '116']",.java
+./WEB-INF/src/com/infinitecampus/notifications/events/Attendance/PushNotificationAttendanceEvent.java,"['65', '121']",.java
+./WEB-INF/src/com/infinitecampus/notifications/events/Attendance/TeacherAttendanceEvent.java,"['45', '100']",.java
+./WEB-INF/src/com/infinitecampus/notifications/events/BatchQueueEvent.java,['22'],.java
+./WEB-INF/src/com/infinitecampus/notifications/events/ESSTimeOffRequestEvent.java,['50'],.java
+./WEB-INF/src/com/infinitecampus/notifications/events/GradingEvent.java,"['51', '113']",.java
+./WEB-INF/src/com/infinitecampus/notifications/events/PushNotificationEvent.java,"['60', '88']",.java
+./WEB-INF/src/com/infinitecampus/notifications/Notification.java,"['62', '98', '179', '180', '184', '216', '236', '249', '262']",.java
+./WEB-INF/src/com/infinitecampus/notifications/NotificationOption.java,"['21', '32']",.java
+./WEB-INF/src/com/infinitecampus/notifications/NotificationSubscription.java,"['39', '50']",.java
+./WEB-INF/src/com/infinitecampus/notifications/NotificationType.java,['18'],.java
+./WEB-INF/src/com/infinitecampus/notifications/NotificationUser.java,"['36', '60', '96']",.java
+./WEB-INF/src/com/infinitecampus/password/management/reset/PasswordResetServlet.java,"['58', '74', '84', '111', '176', '185', '188']",.java
+./WEB-INF/src/com/infinitecampus/password/management/reset/PasswordResetState.java,"['13', '31', '32', '36', '39', '40']",.java
+./WEB-INF/src/com/infinitecampus/password/management/reset/SavePasswordAndRedirect.java,"['22', '90', '100', '101', '122', '123']",.java
+./WEB-INF/src/com/infinitecampus/password/management/reset/SetPassword.java,"['21', '86', '88', '112', '125', '126']",.java
+./WEB-INF/src/com/infinitecampus/portal/ExternalURL.java,"['1', '41']",.java
+./WEB-INF/src/com/infinitecampus/portal/lang/ResourceBundleStore.java,"['1', '4', '16', '36', '37', '38']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalAcademicPlanner.java,"['1', '19', '25', '27', '29', '30', '33', '37', '38', '39', '40', '41', '42', '45', '49', '65', '72', '77', '81', '93', '98', '125', '134', '141', '150', '166', '167', '168', '170']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalAccessLog.java,"['1', '10', '12', '13', '16', '20', '23', '27']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalAccountInfo.java,"['1', '9', '11', '12', '15', '19', '22', '26']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalAccountJournal.java,"['2', '7', '38', '40', '42', '43', '46', '50', '53', '57', '97', '101', '104', '236', '239', '248', '276', '294', '299', '300', '309', '332', '335']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalActivityByDate.java,"['1', '11', '18', '21', '22', '25', '29', '32', '36', '38']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalActivityDetail.java,"['1', '34', '41', '43', '45', '46', '49', '53', '56', '60', '62', '66', '82', '98', '128', '326', '327', '328', '330', '399', '459']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalAssessment.java,"['1', '15', '22', '25', '26', '29', '33', '36', '40', '53']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalAttendance.java,"['1', '26', '32', '34', '36', '37', '40', '44', '47', '51', '53', '56', '116', '128', '132', '185', '189', '215', '219', '264', '286', '290', '292', '298', '304', '308', '357', '361']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalBehavior.java,"['1', '14', '21', '24', '25', '28', '32', '35', '39', '48']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalClassbook.java,"['1', '31', '38', '41', '42', '45', '49', '52', '56', '68', '84', '139', '163', '164', '172', '192']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalClassbookMissing.java,"['1', '13', '20', '23', '24', '27', '31', '34', '38', '40']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalContact.java,"['1', '23', '30', '32', '34', '35', '38', '42', '43', '46', '50', '54', '134', '159', '328', '332', '364', '366']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalCourse.java,"['1', '13', '20', '23', '24', '27', '31', '34', '38', '40']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalCourseSearch.java,"['1', '16', '23', '26', '27', '30', '34', '37', '41', '45']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalCustomTab.java,"['1', '17', '26', '29', '30', '33', '37', '40', '48', '63']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalETranscript.java,"['1', '15', '22', '24', '25', '26', '29', '54', '60', '69', '75', '81']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalEvaluation.java,"['1', '12', '19', '22', '23', '29', '33', '36', '40']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalFamilyData.java,"['1', '20', '21', '26', '30', '34', '38', '42', '47', '50', '51', '52', '56', '59', '64', '67', '114', '125', '128', '146', '149', '172', '179', '182', '222', '232', '247', '279', '280', '281', '282', '285', '288', '289', '299', '304', '307']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalFees.java,"['1', '22', '29', '31', '32', '33', '36', '40', '41', '44', '50', '53', '55', '71', '97', '98', '99', '101', '110', '111', '112', '114', '122', '123', '124', '134', '142', '148', '150', '154']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalGrades.java,"['1', '14', '17', '19', '20', '24', '28', '31', '35', '42', '46']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalGradPlanner.java,"['1', '17', '24', '26', '28', '29', '32', '36', '39', '43', '50', '53']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalHealth.java,"['1', '24', '31', '34', '35', '38', '42', '45', '49']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalHouseholdData.java,"['1', '24', '26', '30', '34', '38', '42', '46', '48', '51', '73', '80', '83', '134', '137', '203', '204', '205', '206', '210', '213', '214', '222', '245', '250', '259', '265', '268']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalLessonPlanActivity.java,"['1', '24', '31', '33', '35', '36', '40', '44', '47', '51', '53', '57', '134', '146', '178', '193', '224']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalMealBenefit.java,"['1', '28', '30', '32', '36', '40', '44', '48', '52', '117', '124', '146', '153', '190', '229', '357', '358', '359', '361', '370']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalNoticeEvaluation.java,"['1', '13', '20', '23', '24', '27', '31', '34', '38']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalOnlineAssessment.java,"['1', '24', '26', '28', '29', '32', '36', '42', '127', '131', '141', '161', '190', '240', '271', '319', '336', '340']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalOutline.java,"['1', '6', '38', '40', '87', '92', '97', '101', '119', '123', '148', '150', '151', '152', '153', '154', '210', '217', '220', '405', '434', '466', '495', '496', '511', '522', '554', '556', '559', '561', '564', '566', '569', '571', '574', '576', '579', '580', '582', '594', '599', '625', '628', '638', '641', '648', '654', '655', '675', '678', '695', '698', '701', '703', '706', '717', '729', '733', '734', '752', '760', '769', '775', '793', '824', '829', '831', '837', '846', '881', '883']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalOutlineExternalURL.java,"['1', '15', '19', '22', '50', '67']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalOutlineFamily.java,"['1', '21', '37', '38', '88', '114', '242', '262', '264', '323', '359']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalPlan.java,"['1', '14', '20', '23', '24', '29', '33', '34', '35', '38', '42', '54', '58', '69', '73']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalPlanGoal.java,"['1', '13', '20', '23', '24', '27', '31', '34', '38']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalPositiveAttendance.java,"['1', '22', '24', '26', '30', '34', '39', '43', '55', '260', '263']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalProgressReport.java,"['1', '13', '20', '23', '24', '27', '31', '34', '38']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalRegistration.java,"['1', '15', '22', '25', '26', '29', '30', '31', '32', '35', '39', '40', '41', '47', '49', '56', '66', '76']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalReportCard.java,"['1', '14', '21', '24', '25', '30', '34', '37', '41', '45', '62', '73']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalReports.java,"['1', '17', '24', '27', '28', '31', '35', '38', '42', '53', '110', '112', '117']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalRequestBatch.java,"['1', '12', '19', '22', '23', '26', '30', '33', '37']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalRequestsReport.java,"['1', '18', '19', '21', '26', '31', '37', '41', '44', '52', '75', '88', '91', '94', '97', '100', '103', '150', '155']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalResourceBundleControl.java,"['1', '11', '13', '14']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalSchedule.java,"['1', '21', '28', '31', '33', '34', '39', '43', '44', '47', '51', '55', '59', '76', '83', '90', '96', '112']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalScheduleStructure.java,"['1', '19', '26', '29', '30', '33', '37', '40', '44', '46', '51']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalSchool.java,"['1', '10', '19', '22', '23', '26']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalSchoolChoice.java,"['1', '15', '26', '28', '30', '31', '34', '38', '41', '44', '55', '61', '75', '87', '95', '104']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalSelfServiceOptions.java,"['1', '21', '23', '25', '27', '67', '68', '70', '74', '78', '133']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalStudent.java,"['1', '13', '20', '23', '24', '27', '31', '34', '38']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalStudentData.java,"['1', '26', '27', '39', '43', '47', '51', '55', '59', '62', '70', '87', '96', '105', '116', '118', '127', '138', '140', '142', '152', '155', '175', '178', '184', '187', '199', '203', '205', '210', '213', '255', '284', '285', '286', '291', '296', '297', '300', '309', '315', '320', '323', '334', '342', '363', '372', '380', '383', '409', '415']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalToDoList.java,"['1', '21', '23', '25', '26', '29', '33', '73', '115', '119', '122', '127', '188', '208']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalTranscript.java,"['1', '13', '20', '22', '23', '28', '30', '33', '37', '41']",.java
+./WEB-INF/src/com/infinitecampus/portal/PortalTransportation.java,"['1', '21', '25', '27', '29', '33', '38', '41', '44', '47', '49', '91', '134']",.java
+./WEB-INF/src/com/infinitecampus/portal/security/PortalPersonIDFilter.java,"['1', '3', '25', '57', '58', '59', '61']",.java
+./WEB-INF/src/com/infinitecampus/portal/TranslationResourceBundleControl.java,"['1', '37', '42']",.java
+./WEB-INF/src/com/infinitecampus/pos/POSTerminal.java,['53'],.java
+./WEB-INF/src/com/infinitecampus/pos/POSTerminalInfo.java,['39'],.java
+./WEB-INF/src/com/infinitecampus/pos/POSTransaction.java,['85'],.java
+./WEB-INF/src/com/infinitecampus/pos/TransactionReport.java,"['18', '29', '30', '35', '68', '77', '125', '130', '155', '181', '253', '261', '272', '283']",.java
+./WEB-INF/src/com/infinitecampus/prism/FlexFop.java,['26'],.java
+./WEB-INF/src/com/infinitecampus/prism/FlexLogin.java,['215'],.java
+./WEB-INF/src/com/infinitecampus/prism/Prism.java,"['183', '1336', '1369', '1376', '1383', '2271', '2351', '2352', '2473']",.java
+./WEB-INF/src/com/infinitecampus/processManagement/ProcessMessage.java,"['269', '281', '335', '344', '345', '346', '436', '440', '443', '447', '450', '459', '468', '474', '480', '481', '494', '500', '510', '524', '529', '534', '535', '547', '548', '549', '577', '581', '653', '654', '655', '690']",.java
+./WEB-INF/src/com/infinitecampus/resource/County.java,['29'],.java
+./WEB-INF/src/com/infinitecampus/resource/dataDictionary/AttributeComparison.java,"['67', '68', '112']",.java
+./WEB-INF/src/com/infinitecampus/resource/District.java,['175'],.java
+./WEB-INF/src/com/infinitecampus/resource/OverrideProgram.java,['15'],.java
+./WEB-INF/src/com/infinitecampus/resource/PortalOptions.java,"['16', '18', '20', '97', '98', '99', '101', '122', '134', '135', '146', '153']",.java
+./WEB-INF/src/com/infinitecampus/resource/School.java,"['189', '1487']",.java
+./WEB-INF/src/com/infinitecampus/resource/TranscriptPreference.java,"['19', '28', '29', '30']",.java
+./WEB-INF/src/com/infinitecampus/rest/internal/DistrictEditionRestAPI.java,['32'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/curriculum/assignment/AssignmentCategoryMetaData.java,['24'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/curriculum/CurriculumTemplateMetaData.java,['19'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/curriculum/schedule/AssignmentScheduleMetaData.java,['37'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/AssignmentSubmissionMetaData.java,"['1', '4', '5', '6']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/AssignmentSummaryMetaData.java,"['1', '6', '7', '8']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/AssignmentSummaryScoresMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/CumulativeGPAMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/GradingScoreMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/LessonPlanAttachmentMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/LessonPlanSubmissionGoogleDriveAttachmentMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/LockerMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/PlanMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/PortalFamilyMetadata.java,"['1', '9', '18', '19', '28']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/PortalOptionsMetaData.java,"['1', '9', '10', '12']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/PortalReportMetaData.java,"['1', '7', '8', '18', '19']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/POSAccountDetailPortalViewMetaData.java,"['1', '6', '7', '9']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/StudentAppSettingsMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/StudentRosterMetaData.java,"['1', '3', '5', '32']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/TransportationMetaData.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/portal/UserNoticeMetaData.java,"['1', '26']",.java
+./WEB-INF/src/com/infinitecampus/rest/metadata/user/UniqueLinkMetaData.java,['15'],.java
+./WEB-INF/src/com/infinitecampus/rest/models/curriculum/assignment/AssignmentCategoryModel.java,"['27', '28']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/curriculum/assignment/AssignmentTemplateModel.java,['15'],.java
+./WEB-INF/src/com/infinitecampus/rest/models/curriculum/CurriculumTemplateModel.java,"['23', '24']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/curriculum/lti/LTIStudentLinkViewModel.java,['15'],.java
+./WEB-INF/src/com/infinitecampus/rest/models/curriculum/schedule/AssignmentScheduleModel.java,"['31', '53']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/ActiveSectionModel.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/AssignmentSubmissionModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/AssignmentSummaryModel.java,"['1', '3', '48']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/AssignmentSummaryScoresModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/CumulativeGPAModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/GradingScoreModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/LessonPlanAttachmentModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/LessonPlanSubmissionGoogleDriveAttachmentModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/LockerModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/PersonHouseholdModel.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/PlanModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/PortalFamilyModel.java,"['1', '3', '11', '14', '24']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/PortalOptionsModel.java,"['1', '3', '12', '14']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/PortalReportModel.java,"['1', '3', '10', '12', '20']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/POSAccountDetailPortalViewModel.java,"['1', '5', '15', '18']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/StudentAppSettingsModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/StudentRosterModel.java,"['1', '3', '38']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/TransportationModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/UserNoticeModel.java,"['1', '3']",.java
+./WEB-INF/src/com/infinitecampus/rest/models/portal/UserSecurityModel.java,['1'],.java
+./WEB-INF/src/com/infinitecampus/rest/models/user/UniqueLinkModel.java,['19'],.java
+./WEB-INF/src/com/infinitecampus/rest/operations/navWrapper/UserAppsOperation.java,"['47', '48', '148', '150', '170', '171']",.java
+./WEB-INF/src/com/infinitecampus/rest/operations/section/CalculateSectionHasSubscriptionOperation.java,['4'],.java
+./WEB-INF/src/com/infinitecampus/rest/resources/curriculum/gradingTask/GradingTaskCreditCoreResource.java,"['24', '32']",.java
+./WEB-INF/src/com/infinitecampus/rest/resources/curriculum/gradingTask/GradingTaskCreditMasterResource.java,"['25', '33']",.java
+./WEB-INF/src/com/infinitecampus/rest/resources/learnerPlan/k12/section/PortalStudentMastery.java,"['27', '31']",.java
+./WEB-INF/src/com/infinitecampus/rest/resources/prism/campusAttribute/CampusAttributeEntity.java,"['32', '218', '219', '220', '223', '224', '475', '518']",.java
+./WEB-INF/src/com/infinitecampus/saml/SAMLHelper.java,['119'],.java
+./WEB-INF/src/com/infinitecampus/saml2/sp/config/SPConfig.java,"['185', '186']",.java
+./WEB-INF/src/com/infinitecampus/saml2/sp/domain/SAMLSPConfig.java,['60'],.java
+./WEB-INF/src/com/infinitecampus/saml2/sp/impl/DefaultSAMLLogoutHandler.java,"['101', '102', '103', '104', '270', '271', '272', '273', '289', '290', '291', '292', '376', '377', '378', '379']",.java
+./WEB-INF/src/com/infinitecampus/saml2/sp/impl/DefaultSAMLResponseHandler.java,"['124', '125', '126', '127', '128', '129']",.java
+./WEB-INF/src/com/infinitecampus/saml2/sp/SAMLSPController.java,"['88', '89', '90', '94', '95', '97', '98', '216', '220']",.java
+./WEB-INF/src/com/infinitecampus/saml2/SPServlet.java,"['29', '39', '74', '165', '185', '186', '189', '195', '196', '197', '198', '233']",.java
+./WEB-INF/src/com/infinitecampus/scheduler/comm/TrialChooserComm.java,"['202', '207']",.java
+./WEB-INF/src/com/infinitecampus/scheduling/BatchRequests.java,['30'],.java
+./WEB-INF/src/com/infinitecampus/scheduling/Request.java,"['251', '286', '295', '296', '390', '393', '397', '528', '542']",.java
+./WEB-INF/src/com/infinitecampus/scheduling/responsive/ResponsiveOffering.java,"['12', '51', '54', '184', '187']",.java
+./WEB-INF/src/com/infinitecampus/scheduling/responsive/ResponsiveRequest.java,"['11', '38', '41', '192', '195']",.java
+./WEB-INF/src/com/infinitecampus/scheduling/Section.java,"['87', '146', '2327', '2451', '2504', '2599']",.java
+./WEB-INF/src/com/infinitecampus/scheduling/StudentSchedule.java,"['60', '62', '68', '69', '81', '89', '286', '388', '404', '456', '548', '651', '710', '718', '726']",.java
+./WEB-INF/src/com/infinitecampus/scheduling/StudentScheduleList.java,"['33', '35', '36', '38', '66', '67', '221', '262', '326', '345']",.java
+./WEB-INF/src/com/infinitecampus/scheduling/Teacher.java,['55'],.java
+./WEB-INF/src/com/infinitecampus/scheduling/Trial.java,"['73', '89', '95', '101', '171']",.java
+./WEB-INF/src/com/infinitecampus/schoolChoice/SchoolChoiceApplication.java,"['993', '994', '996', '1005', '1019', '1022', '1072', '1093', '1156']",.java
+./WEB-INF/src/com/infinitecampus/security/authentication/mobileSAMLLdap/MobileSAMLLdapAuthenticationHandler.java,['42'],.java
+./WEB-INF/src/com/infinitecampus/security/captcha/CampusImageCaptchaService.java,['22'],.java
+./WEB-INF/src/com/infinitecampus/security/VerifyLogin.java,"['70', '121', '230', '237', '358', '415', '416', '417', '435', '455', '456', '488', '491', '493', '550', '776', '777', '778', '779', '782', '798', '799', '822', '823', '824', '825', '850', '851', '874', '887', '900', '934', '935', '938', '939', '942', '943']",.java
+./WEB-INF/src/com/infinitecampus/sso/IdentityServlet.java,"['71', '72']",.java
+./WEB-INF/src/com/infinitecampus/stateReporting/fl/FLFASTERInstitution.java,['82'],.java
+./WEB-INF/src/com/infinitecampus/stateReporting/mi/MembershipReportAlphaList.java,"['20', '22', '28', '29', '30']",.java
+./WEB-INF/src/com/infinitecampus/student/Program.java,"['522', '532', '536', '613', '614']",.java
+./WEB-INF/src/com/infinitecampus/student/ProgramParticipation.java,['313'],.java
+./WEB-INF/src/com/infinitecampus/student/StudentList.java,['624'],.java
+./WEB-INF/src/com/infinitecampus/studentPortfolio/Transcript.java,"['129', '131', '132', '136', '137', '139', '493', '674', '994']",.java
+./WEB-INF/src/com/infinitecampus/studentPortfolio/TranscriptRequest.java,['271'],.java
+./WEB-INF/src/com/infinitecampus/survey/Survey.java,['108'],.java
+./WEB-INF/src/com/infinitecampus/survey/SurveyRespondent.java,"['263', '271', '273', '327']",.java
+./WEB-INF/src/com/infinitecampus/survey/SurveyResponse.java,"['42', '69', '181', '234']",.java
+./WEB-INF/src/com/infinitecampus/system/AcceptableUsePolicy.java,['22'],.java
+./WEB-INF/src/com/infinitecampus/system/BatchReportLocking.java,['64'],.java
+./WEB-INF/src/com/infinitecampus/system/CampusApp.java,"['35', '4176', '4177']",.java
+./WEB-INF/src/com/infinitecampus/system/CampusAttribute.java,['78'],.java
+./WEB-INF/src/com/infinitecampus/system/CampusStartup.java,"['328', '330', '333', '340', '348', '349', '354', '355', '361', '362', '364', '367', '371', '382', '387', '388', '389']",.java
+./WEB-INF/src/com/infinitecampus/system/CampusTool.java,"['82', '317', '318', '373', '440']",.java
+./WEB-INF/src/com/infinitecampus/system/Preference.java,['36'],.java
+./WEB-INF/src/com/infinitecampus/system/quartz/job/IESchedNotificationJob.java,['155'],.java
+./WEB-INF/src/com/infinitecampus/system/quartz/job/WysiwygFixHtml.java,"['220', '224', '225', '236']",.java
+./WEB-INF/src/com/infinitecampus/system/Report.java,['38'],.java
+./WEB-INF/src/com/infinitecampus/system/Schema.java,"['47', '248']",.java
+./WEB-INF/src/com/infinitecampus/teaching/Classbook.java,"['29', '47', '54', '61']",.java
+./WEB-INF/src/com/infinitecampus/teaching/ClassbookActivity.java,['20'],.java
+./WEB-INF/src/com/infinitecampus/teaching/ClassbookDetail.java,"['180', '200', '203', '204', '214', '446', '466', '473', '475', '579', '580', '610', '625', '681', '695', '741', '837']",.java
+./WEB-INF/src/com/infinitecampus/teaching/ClassbookGroup.java,['19'],.java
+./WEB-INF/src/com/infinitecampus/teaching/DataTransferObjects/AssignmentDTO.java,['18'],.java
+./WEB-INF/src/com/infinitecampus/teaching/drive/GoogleDriveIntegrationPreference.java,['54'],.java
+./WEB-INF/src/com/infinitecampus/teaching/drive/LessonPlanSubmissionGoogleDriveAttachment.java,"['71', '332', '355', '450']",.java
+./WEB-INF/src/com/infinitecampus/teaching/Gradebook.java,"['969', '1075', '1595', '2250', '2362']",.java
+./WEB-INF/src/com/infinitecampus/teaching/LessonPlan.java,['338'],.java
+./WEB-INF/src/com/infinitecampus/teaching/LessonPlanAttachment.java,"['47', '69', '97']",.java
+./WEB-INF/src/com/infinitecampus/teaching/LessonPlanGroup.java,"['38', '512']",.java
+./WEB-INF/src/com/infinitecampus/teaching/LessonPlanPreference.java,['68'],.java
+./WEB-INF/src/com/infinitecampus/teaching/TeacherPreference.java,['121'],.java
+./WEB-INF/src/com/infinitecampus/unique/UniqueLink.java,"['64', '68', '113', '128', '132', '139', '144', '224', '366', '374']",.java
+./WEB-INF/src/com/infinitecampus/upload/CloudPreference.java,['296'],.java
+./WEB-INF/src/com/infinitecampus/upload/ExtensionWhitelist.java,['30'],.java
+./WEB-INF/src/com/infinitecampus/upload/FileGateway.java,['17'],.java
+./WEB-INF/src/com/infinitecampus/upload/TempUpload.java,['15'],.java
+./WEB-INF/src/com/infinitecampus/user/AccountAutomationLogger.java,"['144', '231', '232', '248', '270']",.java
+./WEB-INF/src/com/infinitecampus/user/AccountAutomationLogReport.java,"['132', '133', '134']",.java
+./WEB-INF/src/com/infinitecampus/user/AccountMaintenance.java,"['51', '56', '61', '140', '144', '153', '222', '223']",.java
+./WEB-INF/src/com/infinitecampus/user/AccountManagement.java,"['4', '65']",.java
+./WEB-INF/src/com/infinitecampus/user/Auth.java,"['83', '84']",.java
+./WEB-INF/src/com/infinitecampus/user/ClientStats.java,"['76', '78', '153', '155', '242', '244']",.java
+./WEB-INF/src/com/infinitecampus/user/esignature/Entry.java,"['26', '43']",.java
+./WEB-INF/src/com/infinitecampus/user/esignature/ESignature.java,"['10', '18', '31']",.java
+./WEB-INF/src/com/infinitecampus/user/esignature/ESignaturePreferences.java,"['18', '21', '56', '120']",.java
+./WEB-INF/src/com/infinitecampus/user/esignature/Exit.java,"['15', '60']",.java
+./WEB-INF/src/com/infinitecampus/user/esignature/PIN.java,"['26', '68', '83', '120']",.java
+./WEB-INF/src/com/infinitecampus/user/ESignature.java,"['15', '33', '47', '48', '50', '67', '68', '70']",.java
+./WEB-INF/src/com/infinitecampus/user/HomePage.java,"['86', '416']",.java
+./WEB-INF/src/com/infinitecampus/user/ldap2/LdapConfiguration.java,"['28', '101']",.java
+./WEB-INF/src/com/infinitecampus/user/ldap2/LdapController.java,"['131', '132', '133', '134', '136', '140']",.java
+./WEB-INF/src/com/infinitecampus/user/ldap2/LdapManager.java,"['55', '57', '143']",.java
+./WEB-INF/src/com/infinitecampus/user/Outline.java,['441'],.java
+./WEB-INF/src/com/infinitecampus/user/PortalLoginNotice.java,['3'],.java
+./WEB-INF/src/com/infinitecampus/user/PortalUsage.java,"['24', '26', '28', '34', '40', '61', '68', '74', '78', '88', '106', '111', '133', '144', '147', '149', '165', '167', '168', '169', '172', '173', '178', '198', '203', '204', '207', '210', '212', '221', '229', '232', '260', '271', '284', '285', '295', '301', '302', '303', '305', '309', '314', '400', '413', '425', '533', '534', '550', '575', '643']",.java
+./WEB-INF/src/com/infinitecampus/user/SearchUsers.java,"['363', '386']",.java
+./WEB-INF/src/com/infinitecampus/user/User.java,"['71', '72', '138', '156', '157', '209', '221', '222', '223', '266', '1021', '1564', '1565', '1568', '1569', '1849', '1850', '1851', '1854', '1855', '1856', '1859', '1860', '1861', '1864', '1865', '1866', '1869', '1870', '1871', '1874', '1875', '1876', '1879', '1880', '1881', '1884', '1892', '1893']",.java
+./WEB-INF/src/com/infinitecampus/user/UserAccount.java,"['476', '477', '478', '550', '784', '979', '1322', '1478', '1506', '1507', '1508', '1516', '1517', '1519', '1520', '1522', '1523', '1552', '1553', '1554', '1555', '1564']",.java
+./WEB-INF/src/com/infinitecampus/user/UserAccountBatchWizard.java,"['284', '315', '329']",.java
+./WEB-INF/src/com/infinitecampus/user/UserAccountGenerationConfiguration.java,['605'],.java
+./WEB-INF/src/com/infinitecampus/user/UserAccountGenerationManager.java,"['128', '134', '149', '192', '501', '504', '529', '541', '603', '606', '607']",.java
+./WEB-INF/src/com/infinitecampus/user/UserAccountTypeController.java,"['113', '114', '116']",.java
+./WEB-INF/src/com/infinitecampus/user/UserGroupMember.java,"['352', '353']",.java
+./WEB-INF/src/com/infinitecampus/user/UserNotice.java,"['58', '60', '196', '197', '200', '214']",.java
+./WEB-INF/src/com/infinitecampus/user/UserPortalOutline.java,"['6', '7', '14', '17', '18', '20', '24', '25', '26', '30', '34', '38', '42', '46', '50', '54', '58', '62']",.java
+./WEB-INF/src/com/infinitecampus/user/UserToolOption.java,['40'],.java
+./WEB-INF/src/com/infinitecampus/userRequest/UserRequest.java,"['32', '33', '34', '35', '62', '69', '70', '76', '83', '96', '105', '106', '107', '108', '109', '110', '124', '138', '162', '240', '241', '242', '244', '247', '248', '253', '255', '268', '279', '282', '285', '288', '291', '294', '415', '420', '421', '424', '446', '447', '458', '463', '509', '512', '542', '543', '549', '574', '595', '617', '620', '621', '675', '676', '678', '679', '681', '682', '684', '685', '687', '694', '1054', '1055', '1056', '1060', '1061', '1062', '1086', '1088', '1089', '1090', '1091', '1092', '1093', '1113', '1128', '1147', '1158', '1168', '1179']",.java
+./WEB-INF/src/com/infinitecampus/userRequest/UserRequestProcessor.java,"['32', '33', '34', '65', '66', '67', '69', '86', '87', '88', '89', '90', '144', '151', '152', '155', '156', '229', '233', '240', '243', '531', '536', '569', '572', '639', '640', '641', '646', '651', '653', '655', '662', '698', '704', '707', '789', '790', '981', '987', '988', '992', '998', '1001', '1005', '1011', '1012', '1018', '1024', '1025', '1032', '1038', '1047', '1063', '1069', '1088', '1094', '1114', '1120', '1121', '1125', '1131', '1137', '1164', '1165', '1166', '1174', '1259', '1260', '1272', '1273', '1296']",.java
+./WEB-INF/src/com/infinitecampus/utility/MobileDetectionUtil.java,"['12', '19']",.java
+./WEB-INF/testInteg/com/infinitecampus/assessment/AssessmentTest.java,"['3092', '3093', '3100', '3116', '3121']",.java
+./WEB-INF/testInteg/com/infinitecampus/census/builders/RelatedPairDataBuilder.java,['41'],.java
+./WEB-INF/testInteg/com/infinitecampus/framework/load/reference/CensusDataGenerator.java,"['359', '366', '377']",.java
+./WEB-INF/testInteg/com/infinitecampus/framework/load/reference/MobileDeviceDataGenerator.java,"['10', '33', '52', '54']",.java
+./WEB-INF/testInteg/com/infinitecampus/framework/load/reference/RecurringFeePaymentDataGenerator.java,"['66', '125', '127', '128']",.java
+./WEB-INF/testInteg/com/infinitecampus/framework/load/reference/RecurringPOSPaymentDataGenerator.java,"['64', '211', '213', '214']",.java
+./WEB-INF/testInteg/com/infinitecampus/g3/messaging/events/assignment/AssignmentScorePushNotificationEventTest.java,"['150', '169']",.java
+./WEB-INF/testInteg/com/infinitecampus/g3/messaging/events/grading/GradingPushNotificationEventTest.java,['98'],.java
+./WEB-INF/testInteg/com/infinitecampus/hr/HRUtilTest.java,"['180', '186', '190']",.java
+./WEB-INF/testInteg/com/infinitecampus/portal/PortalToDoListTest.java,"['1', '25', '35', '105', '106', '162', '163', '168', '170', '171', '178', '180', '191', '196', '204', '211', '218', '228', '236']",.java
+./WEB-INF/testInteg/com/infinitecampus/resource/dataDictionary/CompareStandardDictionaryTest.java,"['139', '140', '141', '142', '143', '144', '145', '146', '147', '148', '149', '150', '151']",.java
+./WEB-INF/testInteg/com/infinitecampus/system/builders/CampusAttributeBuilder.java,"['37', '81', '132', '274', '275']",.java
+./WEB-INF/testInteg/com/infinitecampus/system/builders/CampusToolBuilder.java,"['32', '69', '112', '231', '232']",.java
+./WEB-INF/testInteg/com/infinitecampus/teaching/builders/GradebookDTOBasicSectionDataBuilder.java,['150'],.java
+./WEB-INF/testInteg/com/infinitecampus/teaching/TeacherToDoTaskTest.java,['120'],.java
+./WEB-INF/testInteg/com/infinitecampus/upload/DownloadFilterTest.java,['14'],.java
+./WEB-INF/testInteg/com/infinitecampus/user/builders/UserAccountDataBuilder.java,"['12', '36', '37']",.java
+./WEB-INF/testInteg/com/infinitecampus/userRequest/UserRequestProcessorTest.java,"['68', '103', '150']",.java
+./WEB-INF/testUnit/com/infinitecampus/finance/payments/onlinepayments/OptionalFeeTest.java,"['22', '28']",.java
+./WEB-INF/testUnit/com/infinitecampus/finance/payments/onlinepayments/PortalOnlineTransactionTest.java,['12'],.java

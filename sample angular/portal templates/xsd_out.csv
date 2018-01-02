@@ -1,0 +1,4 @@
+./database/xml/update_CampusTool.xsd,['156'],.xsd
+./WEB-INF/classes/com/infinitecampus/resource/dataDictionary/testDictionary/attributeDictionary.xsd,['229'],.xsd
+./WEB-INF/resources/metadata/dictionary/attributeDictionary.xsd,['238'],.xsd
+./WEB-INF/testInteg/com/infinitecampus/resource/dataDictionary/testDictionary/attributeDictionary.xsd,['229'],.xsd

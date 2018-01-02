@@ -1,0 +1,235 @@
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_CurriculumAutomation.groovy,"['81', '82']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_Fee.groovy,"['203', '209']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_Household.groovy,"['153', '165', '183', '195', '246', '255', '264', '273', '334', '346', '364', '376']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_Mobile.groovy,"['6', '8', '9', '12', '14', '22', '24', '34', '37', '39', '49', '50', '51', '55']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_Portal.groovy,"['23', '25', '36', '37', '38', '48', '50', '52', '56', '68', '70', '75', '89', '91', '96', '111', '113', '118', '127', '129', '133', '139', '140', '141', '170', '171', '174', '175', '296', '340', '343', '351', '356', '359', '361', '367', '370', '372', '392', '394', '402', '404', '420', '422', '424', '443', '451', '452', '453', '461']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_PortalSelfService.groovy,"['19', '20', '21', '22', '23', '24', '25', '26', '29', '30', '32', '33', '36', '37', '42', '47', '49', '50', '81', '84', '89', '91', '92', '136', '137', '190', '192']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_Report.groovy,"['27', '50', '77', '224', '231', '234', '241', '248', '256', '260', '269']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/helper/Helper_User.groovy,"['121', '125', '126']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/client/campusStudent/CampusStudentSelCATBaseHelper.groovy,"['20', '26']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/client/CampusToolsSelCATBaseHelper.groovy,['24'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/client/portal/PortalSelCATBase.groovy,"['1', '4', '9', '11', '15', '21', '22', '23']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/client/portal/PortalSelCATBaseHelper.groovy,"['1', '4', '7', '8', '21', '22', '24', '25']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/campusTools/outline/census/PortalRequestProcessorPage.groovy,"['14', '15', '16', '114', '124', '129', '138', '149', '161', '172']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/campusTools/outline/systemAdministration/custom/CustomTabPage.groovy,['21'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/CampusToolsLoginPage.groovy,"['5', '41', '66', '69']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/portal/module/Sidebar.groovy,['1'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/portal/module/StudentSelector.groovy,['1'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/portal/outline/DemographicsPage.groovy,"['1', '3', '8']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/portal/outline/HouseholdInformationPage.groovy,"['1', '3', '8']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/portal/outline/MessagesPage.groovy,"['1', '3', '8']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/portal/outline/PaymentsPage.groovy,"['1', '3', '8']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/pages/portal/PortalPage.groovy,"['1', '3', '4', '11', '14', '17', '28', '53', '58']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusInstruction/classroom/ControlCenterAttendanceUITest.groovy,"['6', '405', '415']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusInstruction/gradebook/MultiSectionFilterLogicTest.groovy,"['5', '17', '155', '159', '163']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusInstruction/gradebook/ScoreAssignmentTest.groovy,"['13', '24', '175']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusStudent/StudentGradesUITest.groovy,"['7', '129', '180', '200']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusTools/elasticSearch/CampusToolSearchSelCATTest.groovy,"['12', '232', '234', '236', '237']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusTools/elasticSearch/SearchTest.groovy,"['16', '124', '126', '128', '129']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusTools/login/DeviceAuthorizationTest.groovy,['43'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusTools/outline/census/PortalRequestProcessorTest.groovy,"['5', '8', '10', '11', '12', '23', '24', '26', '38', '48', '51', '52', '67', '82', '86', '87', '88', '103', '108', '109', '110', '111', '114', '115', '129', '137', '138', '139', '142', '143', '151']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/campusTools/outline/systemAdministration/userSecurity/userPreferenceManagement/StudentUserAccountBatchWizardTest.groovy,"['16', '47', '119', '121', '123']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/portal/login/portalLoginTest.groovy,"['1', '4', '5', '15', '17', '26', '28', '29', '32', '33', '44', '47']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/portal/outline/DemographicsTest.groovy,"['1', '5', '8', '9', '10', '11', '21', '23', '26', '45', '47', '49', '51', '55', '101', '109', '124', '135', '138', '140', '141', '142', '145', '150', '151', '154', '157', '163', '183', '184']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/portal/outline/HouseholdInformationTest.groovy,"['1', '5', '8', '9', '10', '11', '19', '21', '24', '38', '40', '42', '43', '44', '78', '88', '91', '92', '95', '98', '101', '107', '109', '129', '130']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/portal/outline/NewNonHouseholdContactSubmitRequest.groovy,"['1', '5', '9', '12', '13', '22', '24', '31', '58', '59', '60', '66', '67', '73', '74', '75', '77', '90', '98', '106', '116', '119', '120', '125', '128', '131', '134', '137', '140', '143', '147', '148', '149', '152', '154', '161', '162', '163', '167', '170', '173', '176', '177', '180', '183', '186', '189', '190', '193', '194', '195', '196', '197', '201', '202', '207', '211', '231', '232', '233', '234', '248', '258', '269', '272', '273', '278', '281', '284', '287', '290', '293', '296', '302', '303', '304', '307', '309', '314', '338', '343', '346', '347', '349']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/portal/outline/NonHouseholdContactIdentityChange.groovy,"['1', '4', '7', '10', '12', '13', '23', '25', '32', '57', '59', '60', '66', '67', '68', '69', '83', '88', '96', '106', '109', '111', '114', '115', '118', '121', '124', '125', '126', '127', '128', '130', '134', '135', '136', '141', '150', '151', '158', '163', '172', '182', '185', '187', '192', '195', '198', '201', '204', '207', '210', '213', '216', '219', '222', '225', '230', '231', '232', '235', '237', '238', '239', '240', '241', '242', '245', '246', '247', '250', '252', '253', '256', '257', '260', '264', '265', '266', '267', '268', '270', '273', '276', '277', '278', '279', '282', '285', '288', '289', '294', '295', '296', '301', '304', '314']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/portal/outline/NonHouseholdContactTest.groovy,"['1', '5', '8', '10', '11', '12', '18', '20', '27', '44', '46', '47', '50', '51', '73', '82', '92', '95', '98', '99', '102', '105', '108', '109', '110', '111', '112', '113', '114', '117', '118', '121', '123', '126', '128', '129', '132', '136', '138', '139', '141', '142', '151', '152', '156', '157', '160', '163', '174', '182', '193']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/selenium/tests/portal/outline/payments/PortalRecurringPayment.groovy,"['1', '5', '6', '16', '18', '19', '22', '40', '41', '42', '62', '91', '92', '93', '96', '99', '100', '101', '104', '120', '123', '222']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusInstruction/ControlCenterStudentInfoTest.groovy,['15'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusInstruction/FlexibleSchoolSetup.groovy,"['86', '96', '97', '117', '188']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/data/CampusStudentData.groovy,"['161', '162', '163', '314', '315', '348']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/exclude/CampusStudentDemo/CampusStudentDemoSetup.groovy,"['8', '185', '186', '187']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/exclude/CampusStudentDemo/CampusStudentScheduleSetup.groovy,"['5', '418', '419', '420']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/performance/CampusStudentPerformance.groovy,"['4', '34', '37', '40', '43', '46', '47', '50', '53', '56', '59', '103', '112', '131', '139', '159', '160', '165', '219', '235', '244', '247', '280', '288', '314', '334', '354', '366', '375', '383', '393', '411', '428', '442']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/performance/CampusStudentPerformanceData.groovy,"['7', '32', '33', '34']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/performance/WeeklyOverview_WYSIWYGAssignSub_CourseDetailPage.groovy,"['6', '24', '34', '37', '40', '41', '44', '47', '50', '53', '56', '59', '120', '142', '186', '203', '205', '206', '208', '216', '224', '228', '236', '240', '283']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentAssignmentDetailTest.groovy,"['5', '72', '76', '88', '148', '152', '156', '162', '177', '181', '188', '189', '198', '207', '210']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentAssignmentListTest.groovy,"['5', '73', '78', '83', '87', '95', '110', '116', '124', '129', '130', '136', '151', '152', '153', '154', '157', '164', '169', '170', '175', '179', '192', '197', '198', '199', '202', '205', '208', '211', '214', '218', '222', '234', '235', '238', '294', '303', '317', '320', '322', '327', '330', '338', '351', '352', '355', '356', '359', '380']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentAssignmentTextSubmissionTest.groovy,"['8', '76', '78', '82', '106', '109', '113', '118', '150', '153', '157', '162', '197', '200', '204', '209', '242', '245', '250', '255', '307', '310', '315', '339', '351', '354', '359', '388', '391', '396', '428', '430', '435']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentAttendanceTest.groovy,"['7', '89', '90', '169', '183', '227', '228', '229', '230', '250', '251', '274', '277', '283', '309', '349', '352', '358']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentCourseDetailTest.groovy,"['4', '32']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentGeneralInfoTest.groovy,"['89', '90', '212', '220', '221', '227', '233', '234', '244', '264', '285', '319', '330', '331', '341', '348', '349', '360', '393', '405', '406', '415', '422', '423']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentGPATest.groovy,"['52', '53', '199', '207', '208', '211', '217', '218', '223', '226', '232']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentGradesTest.groovy,"['8', '84', '91', '92', '96', '97', '104']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentReportsTest.groovy,"['4', '18', '26', '27', '29', '30', '31', '35', '38', '39', '40', '44', '53', '54', '55', '59']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentResetPasswordTest.groovy,"['160', '166', '191']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentScheduleTest.groovy,"['4', '17', '49', '57', '58', '68']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentSettingsTest.groovy,"['7', '35', '37', '41', '43', '51', '54', '60', '63', '77', '81', '109', '157', '163', '166', '194', '206']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/campusStudent/StudentTodayTest.groovy,['46'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/coreData/CoreDataVariables.groovy,"['11', '164', '165']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/coreData/CoreData_030_User.groovy,"['5', '23']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/AutoBranchCurriculum.groovy,"['269', '274', '285']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/CurriculumList.groovy,"['257', '284']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/CurriculumSearch.groovy,['422'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/GoogleDriveAttachments.groovy,"['32', '96']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/helper/Helper_LTI.groovy,"['5', '104', '207']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/LearningObject.groovy,['221'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/AddTreeToSection.groovy,['57'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/BasicScheduledLearningObjects.groovy,"['66', '85']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/BasicScheduledLearningObjectsParentsChildren.groovy,"['70', '119']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/LearningObjectCourseAndAuthorSearch.groovy,"['43', '52']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/LearningObjectEditorLoad.groovy,['39'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/LearningObjectsParentsChildrenCurriculumList.groovy,"['98', '102', '104']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/LearningObjectsParentsChildrenVersioning.groovy,['70'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/PlannerMyCurriculumViewAssignmentOnlyLoad.groovy,"['129', '145', '160', '177', '192', '209']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/PlannerMyCurriculumViewParentsChildrenLoad.groovy,"['160', '195', '230', '297', '333', '370']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/simulation/AverageTeacher.groovy,['206'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/curriculum/performance/simulation/data/_A020_CurriculumSimulationStudents.groovy,"['83', '112']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/fees/FeeStatement.groovy,"['17', '50', '52']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/grading/ScoredAssignmentReportTest.groovy,"['163', '265', '302', '305', '439', '440', '441', '464']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/learnerPlan/k12/wAuthorPortalIntegration.groovy,['12'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/learnerPlan/performance/client/LearnerPlanPerfAutomatedTestBase.groovy,['95'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/lti/exclude/SetupProviderAccount.groovy,"['8', '77', '91', '158', '159', '160']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/lti/performance/data/LTIPerformanceDataCreation.groovy,"['69', '70', '71']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/lti/performance/LaunchLTILinks.groovy,"['3', '38', '41']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/lti/performance/LoadLTIAssignment.groovy,"['3', '70', '73']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/lti/performance/PostLTIOutcomes.groovy,"['3', '42']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/lti/performance/PostLTIOutcomesThreaded.groovy,"['3', '43']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/mobile/MobilePortalAutomatedTestBase.groovy,"['14', '124', '125']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/mobile/PortalClassbookTest.groovy,"['12', '13', '14', '16', '192', '208']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/mobile/PortalOutlineTest.groovy,"['6', '7', '15', '24', '25', '28', '30', '38', '39', '40', '47', '48', '49', '50', '51', '84', '93', '163', '164', '165', '172', '173', '174', '175', '176', '209', '218']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/mobile/PortalScheduleTest.groovy,"['6', '8', '9', '18']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/notifications/NotificationSubscriptionSpec.groovy,['10'],.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/olp/exclude/OLPUtil.groovy,"['37', '39', '191', '206', '221', '248', '276']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/olp/exclude/PayFutureEnrollments.groovy,"['66', '128', '129', '131', '133', '145', '146']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/saml/SAMLServiceConfiguration.groovy,"['23', '53', '70']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/student/GradesReport.groovy,"['46', '59', '84']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/student/ProgramParticipationReportSpec.groovy,"['5', '107', '118', '119', '121', '122', '165', '166', '268', '269', '271', '273', '276', '278', '290', '299', '303']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/translations/Helper_Translations.groovy,"['79', '82', '106', '117', '120']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/translations/portalTranslationsTest.groovy,"['13', '18', '79']",.groovy
+./WEB-INF/catTest/com/infinitecampus/automated/test/translations/portalTranslationsUploadTest.groovy,"['13', '18', '24', '126']",.groovy
+./WEB-INF/classes/com/infinitecampus/campusLearning/CampusLearningNotificationHelper.groovy,"['60', '87', '238', '240', '252']",.groovy
+./WEB-INF/classes/com/infinitecampus/campusLearning/CampusLearningService.groovy,['188'],.groovy
+./WEB-INF/classes/com/infinitecampus/g3/messaging/services/rabbitmq/RabbitMQConfig.groovy,"['41', '42', '59', '217']",.groovy
+./WEB-INF/classes/com/infinitecampus/portal/PortalOutlineFamilyParser.groovy,"['1', '6', '8']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/internal/PortalCustomHeaderFilter.groovy,"['9', '11']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/operations/portal/GetEnrollmentsForActiveYearOperation.groovy,['1'],.groovy
+./WEB-INF/classes/com/infinitecampus/rest/operations/portal/GetHouseholdOperation.groovy,"['1', '4']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/operations/portal/GetStudentAppSettingsOperation.groovy,"['1', '3']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/operations/portal/PortalAttendanceBuildResponseOperation.groovy,"['1', '7', '9', '17', '19', '23', '29', '31', '70', '94', '102', '141', '151', '160', '163', '165', '167', '168', '197']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/operations/portal/PortalAttendanceLoadOperation.groovy,"['1', '9', '10', '30', '35', '42', '43', '58', '59', '61', '67', '157', '158', '169', '178', '188', '199', '209', '223', '233']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/operations/portal/SimpleSAXWriter.groovy,['1'],.groovy
+./WEB-INF/classes/com/infinitecampus/rest/operations/teacher/console/GetTeacherConsoleDataOperation.groovy,['36'],.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/AssignmentSubmissionResource.groovy,"['1', '3', '4', '5', '19', '23', '28']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/AssignmentSummaryResource.groovy,"['1', '4', '6', '7', '8', '9', '10', '11', '31', '45', '50']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/AssignmentSummaryScoresResource.groovy,"['1', '3', '4', '5', '28', '50']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/CumulativeGPAResource.groovy,"['1', '3', '6', '7', '27']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/ActiveYearFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/AssignmentSummarySecurity.groovy,"['1', '4']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/AssignmentSummaryServiceExtension.groovy,"['1', '5']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/AssignmentSummaryUtil.groovy,['1'],.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/HideGradesFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/HideTermsCollectionFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/HideTermsExtensionUtil.groovy,['1'],.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/HideTermsFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/PortalGetUserSecurityServiceExtension.groovy,"['1', '4', '22', '26']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/PortalListUserSecurityServiceExtension.groovy,"['1', '20', '24', '29']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/StudentAppEnabledFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/delegate/UserNoticeFilterExtension.groovy,"['1', '3', '44']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/GeneralInfoResource.groovy,"['1', '4', '5', '7', '8', '29', '34']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/GradingScoreResource.groovy,"['1', '3', '4', '5', '6', '21', '29', '31', '38', '40']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/GradingTaskCreditResource.groovy,"['1', '17', '25', '33']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/LessonPlanAttachmentResource.groovy,"['1', '3', '4', '5', '19', '23', '28']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/LessonPlanSubmissionGoogleDriveAttachmentResource.groovy,"['1', '3', '16']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/LockerResource.groovy,"['1', '3', '4', '21', '27']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/PersonHouseholdResource.groovy,"['1', '3', '4', '20', '22']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/PlanResource.groovy,"['1', '3', '22', '23']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/PortalAttendanceResource.groovy,"['1', '7', '8', '9', '10', '27', '29', '30', '36', '40', '56', '71', '83', '87', '103', '104', '106']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/PortalFamilyResource.groovy,"['1', '3', '14', '16', '18', '25']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/PortalOptionsResource.groovy,"['1', '3', '22', '23', '24', '33']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/PortalReportResource.groovy,"['1', '4', '5', '6', '7', '8', '9', '36', '37', '42', '85', '91', '124', '128', '133', '139', '140', '151', '153', '164', '179', '204', '224', '226', '237', '239', '242', '251']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/POSAccountDetailPortalViewResource.groovy,"['1', '3', '23', '25', '29', '51']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/SectionResource.groovy,"['1', '3', '16']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/StudentAppSettingsResource.groovy,"['1', '3', '29']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/StudentRosterResource.groovy,"['1', '3', '4', '5', '6', '7', '8', '23', '30', '32', '38', '40']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/TransportationResource.groovy,"['1', '3', '4', '21', '28']",.groovy
+./WEB-INF/classes/com/infinitecampus/rest/resources/portal/UserNoticeResource.groovy,"['1', '3', '4', '23']",.groovy
+./WEB-INF/classes/com/infinitecampus/student/ProgramParticipationReport.groovy,"['7', '60', '61', '62', '63']",.groovy
+./WEB-INF/classes/com/infinitecampus/studentPortal/AssignmentSubmission.groovy,"['1', '53', '197']",.groovy
+./WEB-INF/classes/com/infinitecampus/system/quartz/job/CLUpdateLearnerPlanJob.groovy,['129'],.groovy
+./WEB-INF/classes/com/infinitecampus/system/quartz/job/LowLunchBalanceNotificationJob.groovy,['61'],.groovy
+./WEB-INF/config.groovy,"['38', '39', '103', '104']",.groovy
+./WEB-INF/securityRoles.groovy,"['406', '847', '848', '849', '850', '851', '852', '853', '854', '855', '856', '857', '858', '921', '1397', '1881', '1909', '2881', '2882', '2924', '3155']",.groovy
+./WEB-INF/src/com/infinitecampus/campusLearning/CampusLearningNotificationHelper.groovy,"['60', '87', '238', '240', '252']",.groovy
+./WEB-INF/src/com/infinitecampus/campusLearning/CampusLearningService.groovy,['188'],.groovy
+./WEB-INF/src/com/infinitecampus/g3/messaging/services/rabbitmq/RabbitMQConfig.groovy,"['41', '42', '59', '217']",.groovy
+./WEB-INF/src/com/infinitecampus/portal/PortalOutlineFamilyParser.groovy,"['1', '6', '8']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/internal/PortalCustomHeaderFilter.groovy,"['9', '11']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/operations/portal/GetEnrollmentsForActiveYearOperation.groovy,['1'],.groovy
+./WEB-INF/src/com/infinitecampus/rest/operations/portal/GetHouseholdOperation.groovy,"['1', '4']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/operations/portal/GetStudentAppSettingsOperation.groovy,"['1', '3']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/operations/portal/PortalAttendanceBuildResponseOperation.groovy,"['1', '7', '9', '17', '19', '23', '29', '31', '70', '94', '102', '141', '151', '160', '163', '165', '167', '168', '197']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/operations/portal/PortalAttendanceLoadOperation.groovy,"['1', '9', '10', '30', '35', '42', '43', '58', '59', '61', '67', '157', '158', '169', '178', '188', '199', '209', '223', '233']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/operations/portal/SimpleSAXWriter.groovy,['1'],.groovy
+./WEB-INF/src/com/infinitecampus/rest/operations/teacher/console/GetTeacherConsoleDataOperation.groovy,['36'],.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/AssignmentSubmissionResource.groovy,"['1', '3', '4', '5', '19', '23', '28']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/AssignmentSummaryResource.groovy,"['1', '4', '6', '7', '8', '9', '10', '11', '31', '45', '50']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/AssignmentSummaryScoresResource.groovy,"['1', '3', '4', '5', '28', '50']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/CumulativeGPAResource.groovy,"['1', '3', '6', '7', '27']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/ActiveYearFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/AssignmentSummarySecurity.groovy,"['1', '4']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/AssignmentSummaryServiceExtension.groovy,"['1', '5']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/AssignmentSummaryUtil.groovy,['1'],.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/HideGradesFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/HideTermsCollectionFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/HideTermsExtensionUtil.groovy,['1'],.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/HideTermsFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/PortalGetUserSecurityServiceExtension.groovy,"['1', '4', '22', '26']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/PortalListUserSecurityServiceExtension.groovy,"['1', '20', '24', '29']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/StudentAppEnabledFilterExtension.groovy,"['1', '4']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/delegate/UserNoticeFilterExtension.groovy,"['1', '3', '44']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/GeneralInfoResource.groovy,"['1', '4', '5', '7', '8', '29', '34']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/GradingScoreResource.groovy,"['1', '3', '4', '5', '6', '21', '29', '31', '38', '40']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/GradingTaskCreditResource.groovy,"['1', '17', '25', '33']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/LessonPlanAttachmentResource.groovy,"['1', '3', '4', '5', '19', '23', '28']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/LessonPlanSubmissionGoogleDriveAttachmentResource.groovy,"['1', '3', '16']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/LockerResource.groovy,"['1', '3', '4', '21', '27']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/PersonHouseholdResource.groovy,"['1', '3', '4', '20', '22']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/PlanResource.groovy,"['1', '3', '22', '23']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/PortalAttendanceResource.groovy,"['1', '7', '8', '9', '10', '27', '29', '30', '36', '40', '56', '71', '83', '87', '103', '104', '106']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/PortalFamilyResource.groovy,"['1', '3', '14', '16', '18', '25']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/PortalOptionsResource.groovy,"['1', '3', '22', '23', '24', '33']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/PortalReportResource.groovy,"['1', '4', '5', '6', '7', '8', '9', '36', '37', '42', '85', '91', '124', '128', '133', '139', '140', '151', '153', '164', '179', '204', '224', '226', '237', '239', '242', '251']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/POSAccountDetailPortalViewResource.groovy,"['1', '3', '23', '25', '29', '51']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/SectionResource.groovy,"['1', '3', '16']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/StudentAppSettingsResource.groovy,"['1', '3', '29']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/StudentRosterResource.groovy,"['1', '3', '4', '5', '6', '7', '8', '23', '30', '32', '38', '40']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/TransportationResource.groovy,"['1', '3', '4', '21', '28']",.groovy
+./WEB-INF/src/com/infinitecampus/rest/resources/portal/UserNoticeResource.groovy,"['1', '3', '4', '23']",.groovy
+./WEB-INF/src/com/infinitecampus/student/ProgramParticipationReport.groovy,"['7', '60', '61', '62', '63']",.groovy
+./WEB-INF/src/com/infinitecampus/studentPortal/AssignmentSubmission.groovy,"['1', '53', '197']",.groovy
+./WEB-INF/src/com/infinitecampus/system/quartz/job/CLUpdateLearnerPlanJob.groovy,['129'],.groovy
+./WEB-INF/src/com/infinitecampus/system/quartz/job/LowLunchBalanceNotificationJob.groovy,['61'],.groovy
+./WEB-INF/testIgnored/com/infinitecampus/UserAccountTestDG.groovy,"['178', '189', '194', '205']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/custom/CustomStudentTest.groovy,"['37', '124']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/custom/CustomTabTest.groovy,"['37', '104', '118', '223', '242', '262', '296', '318', '387']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/finance/payments/onlinepayments/portalOnlinePaymentTest.groovy,"['23', '25', '27', '39']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/grading/GradesTest.groovy,"['57', '71', '77', '129', '198', '203', '314', '353']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/portal/ExternalURLTest.groovy,['1'],.groovy
+./WEB-INF/testInteg/com/infinitecampus/portal/PortalPositiveAttendanceTest.groovy,"['1', '4', '28', '98', '309', '315', '323', '331', '340']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/portal/UserPortalOutlineExternalURLTest.groovy,"['1', '11', '21', '23', '25', '38', '41', '42', '44', '45']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/scheduling/CoursePlanTest.groovy,"['9', '10', '45', '75', '76', '77', '81', '224', '225', '226', '238', '241', '243', '249', '258', '259', '260', '261', '262', '263', '266', '292', '299', '300', '301', '302', '303', '305', '306', '307', '308', '310', '311', '312', '315', '316', '319', '322', '324', '330', '339', '340', '341', '342', '343', '344', '352', '385', '397', '398', '399', '400', '401', '402', '404', '405', '406', '407', '408', '409', '411', '412', '413']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/security/AbstractSecurityTestBase.groovy,"['337', '340']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/student/ProgramParticipationTest.groovy,"['209', '256', '348']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/user/PortalUsageTest.groovy,"['6', '8', '9', '11', '13', '20']",.groovy
+./WEB-INF/testInteg/com/infinitecampus/user/UserGroupMembershipTest.groovy,"['766', '776', '777', '780', '786', '789', '790']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/aggregationLayer/repositories/calendar/CalendarMockData.groovy,['65'],.groovy
+./WEB-INF/testUnit/com/infinitecampus/aggregationLayer/repositories/campusAttribute/CampusAttributeMockData.groovy,"['61', '154', '240', '270', '325', '360', '391', '533', '626', '766']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/grading/PescTransformTest.groovy,['23'],.groovy
+./WEB-INF/testUnit/com/infinitecampus/password/management/reset/SetPasswordTest.groovy,"['36', '37']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/portal/PortalContactTest.groovy,"['1', '6', '8', '9']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/portal/security/PortalPersonIDFilterTest.groovy,"['1', '15', '17', '22', '50', '52', '57', '58', '86', '91', '92', '126', '131', '132']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/rest/operations/portal/GetHouseholdOperationTest.groovy,['1'],.groovy
+./WEB-INF/testUnit/com/infinitecampus/rest/operations/portal/PortalAttendanceBuildResponseOperationTest.groovy,"['1', '7', '17', '20', '25', '26', '27', '30', '38', '39', '40', '41', '42', '45', '46', '47', '61', '62', '63', '66', '67', '68', '69', '77', '80', '83', '84', '90', '91', '92', '105', '130', '131', '135', '136', '171', '197', '212']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/rest/resources/portal/delegate/HideTermsExtensionUtilTest.groovy,['1'],.groovy
+./WEB-INF/testUnit/com/infinitecampus/rest/resources/portal/delegate/UserNoticeExtensionTest.groovy,['1'],.groovy
+./WEB-INF/testUnit/com/infinitecampus/scheduling/StudentScheduleTest.groovy,"['51', '180']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/security/VerifyLoginTest.groovy,"['467', '480', '484', '492', '493', '494', '495', '496', '584', '586', '706', '710', '720', '729', '739', '740', '741', '821', '833', '834', '841', '869', '907', '917', '956', '967', '1003', '1007', '1010', '1012', '1018', '1021', '1024', '1028', '1032', '1035', '1037', '1043', '1046', '1049']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/system/CampusToolTest.groovy,"['55', '64', '99', '108']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/user/AccountAutomationLoggerTest.groovy,"['33', '235', '236', '237', '238', '282', '283', '284', '285', '286', '287', '288', '289', '290', '291', '292', '293', '294', '295', '296', '297', '597', '598', '960', '961', '962']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/user/AccountAutomationLogReportTest.groovy,"['31', '37', '38']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/user/UserAccountGenerationConfigurationTest.groovy,['431'],.groovy
+./WEB-INF/testUnit/com/infinitecampus/user/UserAccountGenerationManagerTest.groovy,"['64', '65']",.groovy
+./WEB-INF/testUnit/com/infinitecampus/user/UserAccountTest.groovy,['18'],.groovy
+./WEB-INF/testUnit/com/infinitecampus/utility/MobileDetectionUtilTest.groovy,"['10', '15', '27', '28', '29', '30', '31', '32', '33', '34', '35', '36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46']",.groovy
