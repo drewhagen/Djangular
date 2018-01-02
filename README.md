@@ -10,14 +10,24 @@ Opted for backend that can run Legacy* Python scripts:
 
     Python -> 2.7.13
 
-    djConda -> 4.4.6
+    Anaconda2 -> 5.0.1
+    
+        Installs via
+        ON WINDOWS: "choco install anaconda2"
+    (Optional) Conda -> 4.4.6
+    
+    
 
     Virtualenv -> 15.1.0
 
         Installs via
-
-            "conda install -c anaconda virtualenv=15.1.0"
-
+            CONDA:
+                "conda install -c anaconda virtualenv=15.1.0"
+            PIP ON WINDOWS with CMD:
+                "cd {{path_to_Python\Python27\Scripts\}}"
+                "pip install virtualenv"
+                ?? Windows is not seeing my System Environment Variable paths?
+                ... Windows is too difficult...
         Initializes Virtual Environment via
 
             "virtualenv --no-site-packges virtual_environment"
